@@ -812,5 +812,29 @@
             []
         ],
         "icon": "icon/relic/326.png"
+    },
+    "327": {
+        "id": "327",
+        "name": "Ancrage de l'étoile déchue",
+        "desc": [
+            "Augmente les chances de coup critique du porteur de 8%. Lors de l'entrée en combat, si le porteur et un autre coéquipier sont des personnages des Compagnons pionniers, augmente les DGT critiques du porteur de 32%."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ]
+        ],
+        "icon": "icon/relic/327.png"
+    },
+    "328": {
+        "id": "328",
+        "name": "Institut cosmique des Sciences de la Vie",
+        "desc": [
+            "Au début d'un combat, si l'énergie max du porteur est supérieure ou égale à 200, augmente les DGT infligés par le porteur de 0.2% par point en excédent, jusqu'à un maximum de 32%."
+        ],
+        "properties": [
+            []
+        ],
+        "icon": "icon/relic/328.png"
     }
 }

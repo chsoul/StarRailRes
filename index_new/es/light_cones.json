@@ -1549,6 +1549,36 @@
         "preview": "image/light_cone_preview/23059.png",
         "portrait": "image/light_cone_portrait/23059.png"
     },
+    "23060": {
+        "id": "23060",
+        "name": "Cuando una estrella ilumina la noche",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Cuando piensa en su infancia, recuerda la primera vez que escuchó las historias de las aventuras de los Trazacaminos.\nSu corazoncito latía por los vastos misterios del universo, así que tomó su pincel para esbozar su primera visión del cosmos.\n\"Una nave cometa, unos raíles estelares, una piloto...\".\n\"Así se pueden trazar caminos, ¿no?\".\nPero la maldición retrasó sus pasos y una cama de sanatorio aprisionó su juventud.\nEn sus momentos de soledad, los libros apilados, los desordenados planos de motores y los botes de pintura vacíos se convirtieron en su día a día.\nSu frágil figura movía el pincel, delineando meticulosamente el sueño que anhelaba.\n\"Tal vez pueda aferrarme a más posibilidades en este tiempo limitado\".\n\"Incluso si es un sueño, merece ser iluminado con colores\".\nCuando los astros volvieron a girar, en un abrir y cerrar de ojos, ya había emprendido el camino que lleva a las estrellas.\nPortando consigo el deseo que compartía con sus amigos, se convirtió en la persona que siempre soñó ser.\n\"El viaje trazacaminos comienza en este momento\".\nEl Expreso viaja por el cosmos y las huellas que dejan la piloto y sus compañeros al avanzar juntos forman unos sólidos raíles estelares.\n\"¡Vayamos juntos al futuro donde residen las estrellas!\".",
+        "icon": "icon/light_cone/23060.png",
+        "preview": "image/light_cone_preview/23060.png",
+        "portrait": "image/light_cone_portrait/23060.png"
+    },
+    "23061": {
+        "id": "23061",
+        "name": "Destelleos silentes",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "En el instante en que la energía mágica se desborda, los colores brillantes de las gemas cubren las paredes.\nLa joven esboza una sonrisa de sorpresa y protege con cuidado los puntos de luz oscilantes.\n\"¡Lo logré! A partir de ahora, ¿yo también podré convertirme en una gran maga?\".\nImagina su futuro como maga y planta la semilla de un deseo en su corazón.\n\"¡Ánimo, Rin Tohsaka! No basta con triunfar una sola vez, ¡hay que lograrlo innumerables veces!\".\n\"Aunque no sé cómo será el futuro, por ahora, ¡sigue adelante según los deseos de tu corazón!\".\nEn este momento de éxito, sus propias exigencias, las esperanzas de su familia y el peso de sus responsabilidades recaen sobre ella.\nLa joven se da ánimos en silencio; ya está lista para convertirse en una mejor versión de sí misma.\nEl camino por delante es largo y arduo, pero un corazón incandescente brilla mucho más que la magia.",
+        "icon": "icon/light_cone/23061.png",
+        "preview": "image/light_cone_preview/23061.png",
+        "portrait": "image/light_cone_portrait/23061.png"
+    },
+    "23062": {
+        "id": "23062",
+        "name": "Soy lo que ves",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Tesoros, poder, conquista, desafíos... Innumerables fragmentos confusos se proyectan una y otra vez en su mente.\nEn un instante bajo la luz parpadeante, el rey se bebe el contenido de su copa de un solo trago.\n\"Tesoros inagotables, tierras sin límites y el poder absoluto en mis manos... Todo lo que merezco pertenece a este rey\".\n\"Pero si eso es todo, ¿qué sentido tiene la vida?\".\nSu figura perezosa se recuesta en el suave sofá, y todos sus pensamientos se desvanecen al instante como el humo.\nDe vez en cuando, el rey también debe ceder ante sus deseos y disfrutar de un momento de placer.\n\"Qué más da lo que se busque o lo que se obtenga. Los momentos en los que la vida late según los dictados del corazón son mis favoritos\".",
+        "icon": "icon/light_cone/23062.png",
+        "preview": "image/light_cone_preview/23062.png",
+        "portrait": "image/light_cone_portrait/23062.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Sobre la caída de un Eón",

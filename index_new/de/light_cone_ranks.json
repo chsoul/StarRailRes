@@ -4009,6 +4009,88 @@
             ]
         ]
     },
+    "23060": {
+        "id": "23060",
+        "skill": "Erster Wunsch",
+        "desc": "Der Träger ignoriert beim Verursachen von SCH #7[i]% der VTD des Ziels. Wenn der Träger die Unterstützungsfertigkeit einsetzt, stellt er #2[i] Energie wieder her und erhält „Segeln“, der 2 Rd. anhält und bis zu #3[i]-fach stapelbar ist. Jede Stapelung von Segeln erhöht den Unterstützungsfertigkeits-SCH um #4[i]%. Erreicht Segeln #5[i] Stapelungen, erhöht jede Stapelung von Segeln den Ultimate-SCH um #6[i]%.",
+        "params": [
+            [0, 6, 3, 0.2, 3, 0.2, 0.32],
+            [0, 6, 3, 0.25, 3, 0.25, 0.36],
+            [0, 6, 3, 0.3, 3, 0.3, 0.4],
+            [0, 6, 3, 0.35, 3, 0.35, 0.44],
+            [0, 6, 3, 0.4, 3, 0.4, 0.48]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "23061": {
+        "id": "23061",
+        "skill": "Keim",
+        "desc": "Erhöht die KRIT-Rate des Trägers um #1[i]%. Wenn eine beliebige verbündete Figur in ihrer eigenen Runde insgesamt mindestens #3[i] Fertigkeitspunkte verbraucht, erhält der Träger für #4[i] Rd. „Strahlende Krone“. Wenn der Träger Strahlende Krone besitzt, ignoriert der von allen Verbündeten verursachte SCH #5[i]% der VTD des Ziels und der vom Träger verursachte Fertigkeits-SCH wird um #2[i]% erhöht. Effekte desselben Typs sind nicht stapelbar.",
+        "params": [
+            [0.18, 0.72, 4, 3, 0.2],
+            [0.21, 0.84, 4, 3, 0.24],
+            [0.24, 0.96, 4, 3, 0.28],
+            [0.27, 1.08, 4, 3, 0.32],
+            [0.3, 1.2, 4, 3, 0.36]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.24 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.27 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23062": {
+        "id": "23062",
+        "skill": "Nach Belieben",
+        "desc": "Erhöht den ANG des Trägers um #1[i]% und die Energie-Wiederherstellungsrate um #2[f1]%. Wenn der Träger seinen Ultimate einsetzt, wird der diesmal verursachte Ultimate-SCH für jeden verbrauchten Punkt Energie um #3[f2]% erhöht, bis zu #6[i]%. Wenn der Träger in den Kampf eintritt oder seinen Ultimate einsetzt, erhält er für #4[i] Rd. „Unterhaltung des Königs“. Solange der Träger Unterhaltung des Königs besitzt, wird der KRIT-SCH aller Verbündeten um #5[i]% erhöht. Effekte desselben Typs können nicht gestapelt werden.",
+        "params": [
+            [0.18, 0.1, 0.002, 3, 0.24, 0.72],
+            [0.21, 0.125, 0.0025, 3, 0.3, 0.9],
+            [0.24, 0.15, 0.003, 3, 0.36, 1.08],
+            [0.27, 0.175, 0.0035, 3, 0.42, 1.26],
+            [0.3, 0.2, 0.004, 3, 0.48, 1.44]
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.18 },
+                { "type": "SPRatioBase", "value": 0.1 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.21 },
+                { "type": "SPRatioBase", "value": 0.125 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.24 },
+                { "type": "SPRatioBase", "value": 0.15 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.27 },
+                { "type": "SPRatioBase", "value": 0.175 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.3 },
+                { "type": "SPRatioBase", "value": 0.2 }
+            ]
+        ]
+    },
     "24000": {
         "id": "24000",
         "skill": "Wie Motten ins Licht",

@@ -1663,6 +1663,110 @@
         "hide_desc": "※ Chứng kiến Asat Pramad tiết lộ bộ mặt thật của mình",
         "hide": false
     },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Yêu Đô Dị Thú",
+        "desc": "Chứng kiến tương lai của Planarcadia chìm vào bóng tối tận thế.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Tàu Điện Ngầm 1999",
+        "desc": "Tụ họp với chiến hữu tại Ga Perdido.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "Điểm Khởi Đầu Mang Tên \"Himeko\"",
+        "desc": "Tất cả mọi thứ, bắt đầu từ đây...",
+        "hide_desc": "※Chứng kiến điểm khởi đầu hành trình của Himeko.",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "Sóng Trọng Lực Bất Diệt",
+        "desc": "Khai Phá, là hành trình vượt qua trọng lực.",
+        "hide_desc": "※ Truyền tin tình báo về Asat Pramad cho Đội Tàu Astral.",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "Bức Tự Họa Mang Tên \"Khai Phá\"",
+        "desc": "Nếu hành trình vui vẻ, cũng không uổng phí một chuyến dạo bước nhân gian.",
+        "hide_desc": "※ Hoàn thành thử thách tiết lộ sự thật của Asat Pramad.",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Vạn Sắc Quy Nhất",
+        "desc": "Minh Vương khai nhãn, chư tướng phi tướng.",
+        "hide_desc": "※Nhìn thấu muôn vàn hóa thân của Asat Pramad.",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Tĩnh",
+        "desc": "Tĩnh lặng, hồi kết của vạn vật",
+        "hide_desc": "※Chiếc đầu rơi xuống đất nhìn chằm chằm vào chính mình bị đánh bại, hắn bỗng muốn cười.",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Biến Tấu Thiên Đường Vui Vẻ: Đứa Bé Tuyết",
         "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn trốn trong Suối Ẩn Xuyên Tranh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Tỷ Phú",
+        "desc": "Mở 400 lần Chiến Lợi Phẩm Planarcadia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Tạm Biệt, Rồng Sừng Sấm",
+        "desc": "Tạm thời đẩy lùi Rồng Sừng Sấm trong \"Thời Khắc Jump\" của Yêu Đô",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Hãy Gọi Tôi Là Chất Cách Điện",
+        "desc": "Khi vượt ải \"Thời Khắc Jump\" của Yêu Đô, số lần bị sét đánh trúng ít hơn 20 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Cây Cầu Đến Những Vì Sao",
+        "desc": "Xây dựng cầu trong \"JUMP Không Gian 2D!\" của Chiếc Nôi Sao Rơi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "Sách Tranh Đầu Tiên",
+        "desc": "Trong Chiếc Nôi Sao Rơi, nắm giữ chiếc cọ vẽ phác họa nên câu chuyện",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Sinh Mệnh Tỏa Sáng",
+        "desc": "Trong Chiếc Nôi Sao Rơi, vẽ nên quá khứ của \"bạn\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Phả Hệ Học Thiên Đường Vui Vẻ",
+        "desc": "Thu thập đủ nội dung mới phát hiện của \"Ký Sự Mỡ Nổi\" trong dị biến ở Thành Phố Seafeld và Yêu Đô, đồng thời hoàn thành tất cả yếu tố thu thập trong \"Truy Nguồn Mỡ Nổi - ROTATE Không Gian 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Gấu Mèo Lao Tới Trăng",
+        "desc": "Thông qua \"JUMP Không Gian 2D!\", bay từ tháp truyền hình của Yêu Đô vào bên trong Ảo Nguyệt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Bệnh Mặt Trăng",
+        "desc": "Đánh bại \"Cái Bóng Của Yêu Nguyệt\" trong \"JUMP Không Gian 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Ngôi Sao Nhấp Nháy",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu trong Chiếc Nôi Sao Rơi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Mặt Trăng Của Công Chúa",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Yêu Đô",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Nửa Đời Phiêu Bạt, Chưa Gặp Minh Chủ",
+        "desc": "Đánh bại Bóng Ma siêu siêu siêu lớn trong \"JUMP Không Gian 2D!\" ở Chiếc Nôi Sao Rơi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Sự Thống Trị Của Kẻ Nhặt Rác",
+        "desc": "Trong \"JUMP Không Gian 2D!\" của Yêu Đô Tận Thế, vớt được 1 món phế phẩm",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "Lời Thổ Lộ Chân Thành Nhất",
+        "desc": "Chứng kiến cuộc hội ngộ định mệnh giữa hai người qua đường tại góc phố",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Khúc Vọng Tưởng Tận Thế",
+        "desc": "Tại Yêu Đô Tận Thế, bắt được một con mèo đen trốn việc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Khởi Hành Thôi, \"Tàu Bay Giữa Các Vì Sao\"",
+        "desc": "Ủng hộ kế hoạch Khởi Hành của Thuyền Trưởng Swooshy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Bức ảnh này nhất định phải chụp sao?",
+        "desc": "Tại Yêu Đô bị Mây Vũ Tích bao trùm, bất chấp thiên lôi cuồn cuộn, sử dụng Máy Ảnh Lấy Liền Mèo Đen nhanh như tên lửa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "Tôi Không Được Yêu Thích... Khó Mà Trách Bạn",
+        "desc": "Giúp đỡ Bụi Linh ẩn cư ở Yêu Đô",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Biệt Đội Sấm Sét",
+        "desc": "Hoàn thành một màn trình diễn xuất sắc cùng Rồng Sừng Sấm tại Yêu Đô",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Khởi Đầu Huyền Thoại",
+        "desc": "Trong Chuyên Gia Chống Tham Nhũng, vượt tất cả các ải",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Chinh Phục Vô Hạn",
+        "desc": "Trong Chuyên Gia Chống Tham Nhũng, thành công vượt ải Chế Độ Vô Tận",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Bên Kia Bức Tường Đen",
+        "desc": "Trong Chuyên Gia Chống Tham Nhũng, tất cả các ải nhận 4 Sao",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Bậc Thầy Lập Trình",
+        "desc": "Trong Chuyên Gia Chống Tham Nhũng, dùng 40 lần kỹ năng trong một trận",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Chuyên Gia Lập Trình",
+        "desc": "Trong Chuyên Gia Chống Tham Nhũng, dùng 20 lần kỹ năng trong một trận",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Haha, hahaha, hahahahaha!",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo dùng Gilgamesh, một lần đánh ra 10 lá \"Kho Báu Đế Vương!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "Nhà Khai Phá làm rung động lòng người nhất toàn vũ trụ",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo dùng Nhà Khai Phá, đánh ra 8 lá \"Aha Công Kích!\" trong cùng một hiệp phe ta.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Vô Hạn Kiếm Chế Rời Rạc",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo dùng Archer, tạo ra 4 thẻ Chiếu Ảnh trong cùng 1 hiệp phe ta",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Kiếm Thắng Lợi Tinh Khung Song Khắc",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo dùng Saber, thi triển 2 lần Tuyệt Kỹ trong cùng 1 hiệp phe ta",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "Thế Nhân Kia, Lại Vọng Tưởng Dùng Xiềng Xích Trói Buộc Thần Linh",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo, khiến Chimera đạt đến cấp tối đa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Kẻ Bất Trung Đáng Bị Giết",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo, dùng \"Rule Breaker\" tiêu diệt 1 kẻ địch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "Tôi Đỡ Được Hết Rồi, A",
+        "desc": "Trong Cuộc Chiến Chén Thánh Huyễn Tạo, đánh ra \"Rho Aias\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12655,6 +13007,102 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Tàu Bông Xuyên Trời Xanh",
+        "desc": "Trong 1 trận, ngoại trừ Himeko - Nova, có 3 nhân vật \"Đồng Hành Khai Phá\" đã sử dụng Kỹ Năng Trợ Chiến",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Trà Chiều 4 Giờ",
+        "desc": "Himeko - Nova thi triển Tuyệt Kỹ trong hiệp thứ 4 của bản thân",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Cùng Nhau Đồng Hành",
+        "desc": "Trong 1 trận, Himeko - Nova dùng Tuyệt Kỹ kích hoạt lồng tiếng đặc biệt của 4 nhân vật \"Đồng Hành Khai Phá\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Hai Phần Ba Là Thần",
+        "desc": "Khi chiến thắng, Phần Trăm HP của Gilgamesh trong khoảng 64%~68%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Dự Trữ Bảo Khí Đầy Đủ",
+        "desc": "Gilgamesh thi triển Bí Kỹ đánh trúng 5 kẻ địch trở lên",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Khai Thiên Lập Địa, Là Lẽ Đương Nhiên",
+        "desc": "Gilgamesh là nhân vật đầu tiên trong đội thi triển Tuyệt Kỹ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Vượt Ngân Sách",
+        "desc": "Trong một trận chiến, Rin Tohsaka tiêu hao \"Năng Lượng Bảo Thạch\" vượt quá 100",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Quy Luật Vàng (Giả)",
+        "desc": "Dùng nhân vật phe ta Rin Tohsaka nhặt 8 Xu Vàng trong 1 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Vận Đi Anh Hùng Cũng Sa Cơ",
+        "desc": "Sử dụng đội hình bao gồm Rin Tohsaka và Archer để giành chiến thắng 1 trận đấu, đồng thời Archer bị hạ gục từ 3 lần trở lên trong trận.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Đồng Ca Lâm Chung",
+        "desc": "Trong trận chiến với \"Chuyên Gia Hài Kịch\", khiến 4 \"Chuyên Gia Hài Kịch\" trở lên cùng lúc thi triển \"Hạ Màn\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Chuyên Gia Gỡ Bom",
+        "desc": "Trong trận chiến với \"Asat Pramad\", khiến khi \"Asat Pramad\" thi triển \"Đại Tiệc Meme Bùng Nổ\", không có \"Meme Bùng Nổ\" nào có thể kích nổ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Học Tới Đâu Dùng Tới Đó",
+        "desc": "Trong trận chiến với \"Asat Pramad\", sử dụng \"Lá Chắn\" nhận được từ \"Ván Cờ Hội Tụ Vận Mệnh\" để chống lại sát thương của \"Trò Hay Bắt Đầu\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4080101": {
         "id": "4080101",
         "series_id": "8",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Có Muốn Đắp Người Tuyết Không?",
         "desc": "Trong \"JUMP Không Gian 2D!\", bị đóng băng trong khối băng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Độ Kiếp Thất Bại",
+        "desc": "Bị sét đánh trúng 1 lần tại Yêu Đô Tận Thế",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Không Nhanh Hơn Tốc Độ Ánh Sáng",
+        "desc": "Bị sét đánh trúng 1 lần trong \"JUMP Không Gian 2D!\" tại Yêu Đô Tận Thế",
         "hide_desc": "",
         "hide": false
     },

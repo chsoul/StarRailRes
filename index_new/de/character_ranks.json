@@ -6722,6 +6722,231 @@
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
     },
+    "150801": {
+        "id": "150801",
+        "name": "Lehrling des Juwelenalten",
+        "rank": 1,
+        "desc": "Wenn bei einem einzelnen Einsatz der verstärkten Fertigkeit mindestens 30 Pkt. „Juwelenenergie“ verbraucht werden, erhält Rin Tohsaka „Schattenjuwelen“ in Höhe der verbrauchten Juwelenenergie.\nWenn sie Schattenjuwelen besitzt, wird die Fertigkeit zu „Experiment der Zweiten Magie“ verstärkt. Die verstärkte Fertigkeit verbraucht alle Schattenjuwelen, löst den Effekt zur Umwandlung von Fertigkeitspunkten in Juwelenenergie nicht aus und verbraucht keine Juwelenenergie.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Dimensionsreisende",
+        "rank": 2,
+        "desc": "Erhöht den von Rin Tohsaka verursachten Fertigkeits-SCH um 30%. Wenn Rin Tohsaka sich auf dem Kampffeld befindet, beträgt der von allen Verbündeten verursachte Fertigkeits-SCH 130% des ursprünglichen SCH.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Krieg um den Heiligen Kelch: Siegesdenkmal",
+        "rank": 3,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Roter Teufel: Dreifache Geschwindigkeit",
+        "rank": 4,
+        "desc": "Wenn der Effekt der KRIT-SCH-Erhöhung des Talents „Juwelenmagie“ bei Rin Tohsaka wirkt, ist dieser Effekt bis zu 2-fach stapelbar.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Gunst der Göttin Venus",
+        "rank": 5,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Dieses Mal ein Volltreffer!",
+        "rank": 6,
+        "desc": "Erhöht Rin Tohsakas WDS-DUR aller Typen um 20%. Beim Einsatz des Ultimates erhält sie 24 Pkt. „Juwelenenergie“ und 1 zusätzliche Runde.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Zeuge aller Dinge",
+        "rank": 1,
+        "desc": "Wenn Gilgamesh „Anerkennung des Königs“ besitzt, wirkt der Effekt von Anerkennung des Königs, der die VTD ignoriert, auch auf andere Teammitglieder, und Anerkennung des Königs erhöht Gilgameshs ANG zusätzlich um 60%. Beim Einsatz der Fertigkeit stellt er zusätzlich eine feste Menge von 40 Energie wieder her.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Allumfassendes Wissen",
+        "rank": 2,
+        "desc": "Beim Kampfeintritt erhält Gilgamesh 5 Pkt. „Begeisterung“ und beim Einsatz seines Ultimates zusätzlich 5 Pkt. Begeisterung. Der SCH-Multiplikator der Fertigkeit „Gate of Babylon“ gegen das Hauptziel wird um 100% und gegen angrenzende Einheiten um 50% erhöht.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Reise von tausend Meilen",
+        "rank": 3,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "Der allmächtige König",
+        "rank": 4,
+        "desc": "Erhöht Gilgameshs Energie-Wiederherstellungsrate um 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Klinge der göttlichen Trennung",
+        "rank": 5,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Durch Freundschaft gestählte Seele",
+        "rank": 6,
+        "desc": "Erhöht den Abprall-SCH-Multiplikator des Ultimates „Enuma Elish“ um 80%. Während sich Gilgamesh auf dem Kampffeld befindet, wird die WDS-DUR aller Typen von verbündeten Figuren um 20% erhöht. Wenn ein Teammitglied seinen Ultimate einsetzt, erhält Gilgamesh 1 Pkt. „Goldene Regel“, wobei bis zu 3 Pkt. angesammelt werden können. Beim Einsatz seines eigenen Ultimates verbraucht er alle Punkte Goldene Regel. Jeder verbrauchte Punkt Goldene Regel erhöht den KRIT-SCH des verursachten Ultimate-SCH um 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Der Trailblaze ist der Weg",
+        "rank": 1,
+        "desc": "Die Anzahl der zusätzlichen Auslösungen des Effekts der Unterstützungsfertigkeit durch das Talent wird um 1 erhöht. Im Status „Gefährtenprotokoll: Richterspruch“ wird die zum Auslösen der Unterstützungsfertigkeit erforderliche Anzahl an Ultimate-Anwendungen um 1 verringert. Im Status „Gefährtenprotokoll: Annihilation“ wird die zum Auslösen der Unterstützungsfertigkeit benötigte Aufladung um 3 Pkt. verringert. Wenn Himeko – Nova die Unterstützungsfertigkeit auslöst, wird die Anzahl des zusätzlichen SCH um 1 erhöht.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Die Flagge ist das nie eingeholte Segel",
+        "rank": 2,
+        "desc": "Erhöht die max. Verwendungen von Himeko – Novas Unterstützungsfertigkeit auf 2. Der durch den Ultimate und die Unterstützungsfertigkeit verursachte SCH entspricht 130% des ursprünglichen SCH. Im Status „Navigationssignal“ wird zu Beginn jeder Runde sofort 1 Verwendung der Unterstützungsfertigkeit zusätzlich wiederhergestellt. Im Rahmen des Effekts der Spur „Der Puls des Expresses dröhnt“ erhält auch eine Figur, die kein Trailblaze-Gefährte ist, beim Einsatz der Unterstützungsfertigkeit 1 zusätzliche Runde.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Auch Sternenkinder sinnieren über die Sterne",
+        "rank": 3,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Ergreife jede himmelwärts gereckte Hand",
+        "rank": 4,
+        "desc": "Beim Einsatz der Unterstützungsfertigkeit des Talents „Gemeinsam zur brennenden Expedition“ gilt die Erhöhung der WDS-DUR aller Typen für alle Verbündeten. Wenn Himeko – Nova diesen Effekt erhält, wird ihre WDS-DUR aller Typen zusätzlich um 10% erhöht.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Bis ans Ende des Kosmos und darüber hinaus",
+        "rank": 5,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Denke an den Schwur, sternwärts zu reisen",
+        "rank": 6,
+        "desc": "Erhöht die Feuer-WDS-DUR von Himeko – Nova um 20%. Erhöht die max. Quellenergie auf 6. Wenn ein Verbündeter eine Unterstützungsfertigkeit einsetzt oder auslöst, wird der von der Unterstützungsfertigkeit verursachte SCH um 75% erhöht und Himeko – Nova erhält 1 Pkt. Quellenergie. Wenn während des Ultimates der Angriff „Übertakteter Partikelstrahl“ ausgelöst wird, erhält sie zusätzlich 1 Pkt. Quellenergie. Wenn „Orbitaler Vernichtungsimpuls“ ausgelöst wird und die aktuelle Quellenergie mindestens 6 Pkt. beträgt, wird zusätzlich allen Gegnern 1-mal Feuer-SCH in Höhe von 160% von Himeko – Novas ANG zugefügt.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Verstreute Sterne",

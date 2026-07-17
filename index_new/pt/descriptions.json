@@ -1522,7 +1522,7 @@
     "10409": {
         "id": "10409",
         "title": "Pátio da Lua Fantasma",
-        "desc": "Localizado em algum lugar no Mundo de Telas, este é o centro do ritual para os Jogos da Lua Fantasma.\nA Sacrarvore Destrumundo no Pátio é imortal. Ela floresce apenas antes do ritual começar."
+        "desc": "Localizado em algum lugar no Mundo de Telas, este é o centro do ritual para os Jogos da Lua Fantasma.\nA Sacrárvore Destrumundo no Pátio é imortal. Ela floresce apenas antes do ritual começar."
     },
     "10410": {
         "id": "10410",
@@ -1542,7 +1542,7 @@
     "10413": {
         "id": "10413",
         "title": "Evanescia",
-        "desc": "Uma garota que mora ao lado da Sacrarvore Destrumundo. Ela é uma grande fã do quadrinho \"Fofurinha Através do Azul\".\nCom suas habilidades extraordinárias de pintura, ela fabricou uma Máscara para você que pode ser usada para participar dos Jogos da Lua Fantasma."
+        "desc": "Uma garota que mora ao lado da Sacrárvore Destrumundo. Ela é uma grande fã do quadrinho \"Fofurinha Através do Azul\".\nCom suas habilidades extraordinárias de pintura, ela fabricou uma Máscara para você que pode ser usada para participar dos Jogos da Lua Fantasma."
     },
     "10414": {
         "id": "10414",
@@ -2008,5 +2008,10 @@
         "id": "20105",
         "title": "Mudando para o ponto de vista de Loba Prateada...",
         "desc": "Enquanto isso, no Estúdio de Pearl, Loba Prateada está planejando sua próxima jogada..."
+    },
+    "20106": {
+        "id": "20106",
+        "title": "Mudando para o ponto de vista de Himeko...",
+        "desc": "Algum tempo atrás, Himeko foi atraída para um Mundo de Telas por Asat Pramad..."
     }
 }

@@ -1663,6 +1663,110 @@
         "hide_desc": "※ Être témoin de la véritable identité d'Asat Pramad",
         "hide": false
     },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Métropole des créatures fantastiques",
+        "desc": "Contempler l'avenir de Planarcadia sombrer dans les ténèbres de la perdition",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Métro 1999",
+        "desc": "Retrouver vos camarades à la station Perdido",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "Un point de départ nommé Himeko",
+        "desc": "Tout commence ici...",
+        "hide_desc": "※ Assister au point de départ du voyage de Himeko",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "L'onde gravitationnelle qui ne s'éteint jamais",
+        "desc": "L'exploration pionnière, c'est voyager au-delà de la gravité",
+        "hide_desc": "※ Transmettre les renseignements sur Asat Pramad à l'équipage de l'Astral Express",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "Un autoportrait intitulé « Pionnier »",
+        "desc": "Un voyage joyeux donne à la vie tout son sens",
+        "hide_desc": "※ Terminer le défi dans lequel Asat Pramad révèle la vérité",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Synthèse chromatique",
+        "desc": "Le Spiritus voit : toutes les formes sont informes",
+        "hide_desc": "※ Percer à jour les innombrables incarnations d'Asat Pramad",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Quiétude",
+        "desc": "Le silence est la fin de toutes choses",
+        "hide_desc": "※ La tête tranchée contemple sa propre défaite et ressent soudain l'envie de rire",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Variation arcadienne : l'enfant des neiges",
         "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache au Picto-ermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Riche magnat",
+        "desc": "Ouvrir 400 coffres au trésor à Planarcadia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Adieu, Virevolt",
+        "desc": "Repousser temporairement le Virevolt pendant l'Heure du saut à la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Appelez-moi isolant",
+        "desc": "Se faire frapper par la foudre moins de 20 fois en terminant l'Heure du saut à la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Pont vers les étoiles",
+        "desc": "Construire un pont dans le « Saut interdimensionnel ! » au Berceau de l'étoile déchue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "Premier carnet de croquis",
+        "desc": "Maîtriser le pinceau qui peint les histoires dans le Berceau de l'étoile déchue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Une vie étincelante",
+        "desc": "Dessiner son propre passé dans le Berceau de l'étoile déchue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Généalogie arcadienne",
+        "desc": "Réunir les nouveaux extraits des Chroniques des graisses flottantes découverts lors des incidents survenus à Merchamps et à la Capitale démoniaque, et terminer toute la collection de la mission « Origine des graisses flottantes : Transmutation ! »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Un raton sur la lune",
+        "desc": "Utiliser le « Saut interdimensionnel ! » pour voler de la tour TV de la Capitale démoniaque jusqu'à la Fabulune",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Mal de lune",
+        "desc": "Vaincre le Reflet de la Lune démoniaque dans le « Saut interdimensionnel ! »",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Variation arcadienne : L'astre scintillant",
+        "desc": "Jouer une mélodie étrange et trouver la mystérieuse créature cachée au Berceau de l'étoile déchue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Variation arcadienne : La lune de la princesse",
+        "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache dans la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Sur le chemin, sans l'ombre d'un sage seigneur",
+        "desc": "Vaincre l'Esprit flottant super-méga-GÉANT lors du Saut interdimensionnel du Berceau de l'étoile déchue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Règle des charognards",
+        "desc": "Recycler 1 morceau de ferraille lors du Saut interdimensionnel de la Capitale démoniaque",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "La plus belle des déclarations",
+        "desc": "Assister aux retrouvailles prédestinées de deux passants au coin d'une rue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Rhapsodie de la fin du monde",
+        "desc": "Attraper un chat noir qui fait l'école buissonnière dans la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Cap sur les étoiles",
+        "desc": "Soutenir le plan de grand départ du Capitaine Zouip",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Une photo dont on aurait pu se passer",
+        "desc": "Sous les nuées d'orage qui pèsent sur la Capitale démoniaque, braver les roulements de tonnerre et dégainer le Photomatou à une vitesse foudroyante",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "L'enfer, c'est les autres",
+        "desc": "Aider les Ætherae terrés dans leur cocon à la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Thunderbolts",
+        "desc": "Offrir un spectacle époustouflant avec le Virevolt dans la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Là où naissent les légendes",
+        "desc": "Terminer tous les niveaux d'Enquête de brique et de bloc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Conquête de l'infini",
+        "desc": "Réussir à terminer un niveau du mode infini dans Enquête de brique et de bloc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Au-delà du Mur noir",
+        "desc": "Obtenir 4 étoiles dans tous les niveaux d'Enquête de brique et de bloc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Maître{F#sse} du code",
+        "desc": "Utiliser des capacités 40 fois au cours d'un même match d'Enquête de brique et de bloc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Spécialiste du code",
+        "desc": "Utiliser des capacités 20 fois au cours d'un même match d'Enquête de brique et de bloc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Ahah, ahahah, ahahahah !",
+        "desc": "Utiliser Gilgamesh dans la Guerre du Saint Graal imagénérée et jouer simultanément 10 cartes Trésor du roi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "{F#La plus émouvante}{M#Le plus émouvant} des pionniers de tout l'univers",
+        "desc": "Dans la Guerre du Saint Graal imagénérée, utiliser {M#le pionnier}{F#la pionnière} et jouer 8 cartes Frappe d'Aha en un seul tour allié",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Unlimited Blade Works de contrebande",
+        "desc": "Dans la Guerre du Saint Graal imagénérée, utiliser Archer et générer 4 carte(s) copiée(s) en un seul tour allié",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Épée de la victoire stellaire de la mort double",
+        "desc": "Dans la Guerre du Saint Graal imagénérée, lancer l'ultime de Saber deux fois en un seul tour allié",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "Ô Mortels qui voudraient enchaîner les dieux",
+        "desc": "Dans la Guerre du Saint Graal imagénérée, atteindre le niveau max d'une chimère",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Mort aux traîtres",
+        "desc": "Éliminer 1 ennemi avec Ruler Breaker dans la Guerre du Saint Graal imagénérée",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "C'était totalement calculé, pff",
+        "desc": "Jouer Rho Aias dans la Guerre du Saint Graal imagénérée",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12655,6 +13007,102 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Toudoux à travers les cieux",
+        "desc": "Au cours d'un même combat, utiliser la compétence de soutien avec 3 personnages des Compagnons pionniers (hors Himeko • Nova)",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Thé de quatre heures",
+        "desc": "Utiliser Himeko • Nova et déclencher son ultime à son tour 4",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Voyageons ensemble",
+        "desc": "Déclencher les répliques de combat spéciales de 4 Compagnons pionniers en utilisant l'ultime de Himeko • Nova pendant un combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Deux tiers de divinité",
+        "desc": "En cas de victoire, le pourcentage de PV de Gilgamesh est compris entre 64% et 68%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Réserves de Noble Phantasme suffisantes",
+        "desc": "Utiliser la technique de Gilgamesh pour frapper 5 ennemis ou plus",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Ciel et Terre se séparent, comme il se doit",
+        "desc": "Faire en sorte que Gilgamesh soit le premier personnage de l'équipe à utiliser son ultime",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Budget dépassé",
+        "desc": "Consommer plus de 100 points de Puissance minérale avec Rin Tohsaka en un seul combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Règle d'or (contrefaçon)",
+        "desc": "Ramasser 8 pièces d'or en une seule fois en utilisant le personnage allié Rin Tohsaka",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Quand la fortune fait défaut, même les héros luttent pour la liberté",
+        "desc": "Remporter un combat avec une équipe composée de Rin Tohsaka et Archer, et faire en sorte qu'Archer soit mis à terre au moins 3 fois durant le combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Chœur de l'agonie",
+        "desc": "Lors d'un combat contre les Comédiologues, faire en sorte que 4 Comédiologues ou plus utilisent Dernier rideau simultanément",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Expert{F#e} en désamorçage de bombes",
+        "desc": "Lors du combat contre Asat Pramad, quand ce dernier utilise Carnaval des Scuds, faire en sorte qu'il ne reste aucun Scud à faire exploser",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Apprendre sur le tas",
+        "desc": "Lors du combat contre Asat Pramad, bloquer les DGT de Que le spectacle commence avec la barrière générée par Duel des destinées convergentes",
+        "hide_desc": "",
+        "hide": false
+    },
     "4080101": {
         "id": "4080101",
         "series_id": "8",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Je voudrais un bonhomme de neige",
         "desc": "Se faire congeler dans un bloc de glace lors d'un Saut interdimensionnel !",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Un échec foudroyant",
+        "desc": "Se faire frapper par la foudre 1 fois dans la Capitale démoniaque",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Coup de foudre à Planarcadia",
+        "desc": "Se faire frapper par la foudre 1 fois lors du Saut interdimensionnel à la Capitale démoniaque",
         "hide_desc": "",
         "hide": false
     },

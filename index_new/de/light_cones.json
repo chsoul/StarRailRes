@@ -1549,6 +1549,36 @@
         "preview": "image/light_cone_preview/23059.png",
         "portrait": "image/light_cone_portrait/23059.png"
     },
+    "23060": {
+        "id": "23060",
+        "name": "Wenn ein Stern den Nachthimmel erhellt",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Ein Blick zurück in die Kindheit, als sie zum ersten Mal die Abenteuergeschichten über den Trailblaze hörte.\nIhr kleines Herz schlug für das geheimnisvolle und grenzlose Universum, also griff sie zum Pinsel und malte ihre ersten Vorstellungen vom Kosmos.\n„Ein Kometenschiff, eine silberne Schiene, eine Navigatorin ...“\n„Dann gibt es doch die Möglichkeit für den Trailblaze, oder?“\nDoch ein Fluch bremste ihre Schritte und das Krankenbett hielt ihre Jugend gefangen.\nIn den einsamen Zeiten wurden hohe Bücherstapel, verstreute Triebwerksbaupläne und leere Farbtuben zu ihrem Alltag.\nIhre schmale Gestalt schwang den Pinsel und malte sorgfältig den ersehnten Traum.\n„Vielleicht kann ich in der begrenzten Zeit noch mehr Möglichkeiten ergreifen.“\n„Selbst wenn es nur ein Traum ist, verdient er es, mit Farben erleuchtet zu werden.“\nAls die Sterne wieder ihre Bahnen zogen, hatte sie zwischen dem Senken und Heben des Blicks bereits ihre Reise zu den Sternen angetreten.\nMit dem gemeinsamen Wunsch von ihr und ihren Freunden wurde sie zu der Person, die sie sich erträumt hatte.\n„Die Reise des Trailblaze beginnt in diesem Moment.“\nDer Express fährt durch das Universum, und die Reisespuren der Navigatorin und ihrer Gefährten, die Seite an Seite voranschreiten, bilden eine solide silberne Schiene.\n„Lasst uns gemeinsam die Zukunft in den Sternen erreichen!“",
+        "icon": "icon/light_cone/23060.png",
+        "preview": "image/light_cone_preview/23060.png",
+        "portrait": "image/light_cone_portrait/23060.png"
+    },
+    "23061": {
+        "id": "23061",
+        "name": "Die leise flackernde Sternenflamme",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "In dem Moment, in dem die magische Energie hervorbricht, verteilen sich die leuchtenden Farben der Juwelen über die Wände.\nDas junge Mädchen lächelt freudig und umschließt das tanzende Licht behutsam mit ihren Handflächen.\n„Ich habe es geschafft! Bedeutet das, dass ich eines Tages auch eine große Magierin werden kann?“\nSie stellt sich ihre Zukunft als Magierin vor und bewahrt diesen Wunsch tief in ihrem Herzen auf.\n„Du schaffst das, Rin Tohsaka! Einmal erfolgreich zu sein, reicht nicht aus! Du musst unzählige Male erfolgreich sein!“\n„Ich weiß nicht, was die Zukunft bringt, aber folge jetzt einfach deinem Herzen und schreite voran!“\nIn diesem Moment des Triumphs laufen ihre Erwartungen an sich selbst, die Hoffnungen ihrer Familie und die Verantwortung, die sie trägt, zusammen.\nDas Mädchen feuert sich leise selbst an. Sie ist bereit, die beste Version ihrer selbst zu werden.\nDer vor ihr liegende Weg ist lang und beschwerlich, doch ihr flammendes Herz leuchtet heller als jede Magie.",
+        "icon": "icon/light_cone/23061.png",
+        "preview": "image/light_cone_preview/23061.png",
+        "portrait": "image/light_cone_portrait/23061.png"
+    },
+    "23062": {
+        "id": "23062",
+        "name": "Ich bin, wie du mich siehst",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Schätze, Macht, Eroberung, Herausforderungen ... Ein Gewirr aus Fragmenten spielte sich in Dauerschleife in seinem Kopf ab.\nIm flackernden Lampenlicht leerte der König seinen Becher in einem Zug.\n„Unermesslicher Reichtum, grenzenlose Ländereien, absolute Macht. Alles, was mir rechtmäßig zusteht, gehört mir.“\n„Aber wenn das alles ist ... spielt dann überhaupt noch etwas eine Rolle?“\nEine träge Gestalt sank in das Plüschsofa, ihre Gedanken und Grübeleien lösten sich augenblicklich wie Rauch auf.\nSelbst ein König muss sich gelegentlich seinen eigenen Begierden hingeben und einen Moment des Vergnügens auskosten.\n„Was spielt es für eine Rolle, was ich anstrebe oder erlange? Die Momente, in denen das Leben frei nach meinen Launen verläuft, sind die, die ich am meisten schätze.“",
+        "icon": "icon/light_cone/23062.png",
+        "preview": "image/light_cone_preview/23062.png",
+        "portrait": "image/light_cone_portrait/23062.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Der Niedergang eines Äons",

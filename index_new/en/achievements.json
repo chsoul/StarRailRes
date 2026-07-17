@@ -1663,6 +1663,110 @@
         "hide_desc": "※ Bear witness to Asat Pramad's revelation of his true identity",
         "hide": false
     },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Fantastic Creature Metropolis",
+        "desc": "Witness the future of Planarcadia fall into the darkness of doom",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Metro 1999",
+        "desc": "Reunite with your comrades at Perdido Station",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "The Starting Point Named \"Himeko\"",
+        "desc": "It all begins here...",
+        "hide_desc": "※ Witness the starting point of Himeko's journey",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "The Gravity Wave That Never Fades",
+        "desc": "To trailblaze is to journey beyond gravity",
+        "hide_desc": "※ Deliver the intelligence about Asat Pramad to the Express Crew",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "The Self-Portrait Called \"Trailblaze\"",
+        "desc": "A joyful journey makes life worth the trip",
+        "hide_desc": "※ Complete the challenge where Asat Pramad reveals the truth",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "All Colors Into One",
+        "desc": "The Spiritus sees: all forms have no form",
+        "hide_desc": "※ See through the countless incarnations of Asat Pramad",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Silence",
+        "desc": "Silence, the end of all things.",
+        "hide_desc": "※ The severed head gazes at its defeated self, and he suddenly feels the urge to laugh",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Arcadia Variation: Snow Child",
         "desc": "Play a Bizarre Melody and find the mysterious creature hiding in Inkford Hermitage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Rich Tycoon",
+        "desc": "Open Planarcadia treasures 400 times",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Farewell, Thundercoil",
+        "desc": "Temporarily repel the thundercoil during the \"Jump Time\" in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Call Me An Insulator",
+        "desc": "Get struck by lightning fewer than 20 times when clearing \"Jump Time\" in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Bridge to the Stars",
+        "desc": "Build a bridge in the \"Interplanar Jump!\" in Fallen Star's Cradle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "The First Drawing Book",
+        "desc": "Master the brush that paints stories in Fallen Star's Cradle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "A Life of Radiance",
+        "desc": "Paint the story of \"your\" past in Fallen Star's Cradle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Arcadian Genealogy",
+        "desc": "Collect all newly discovered entries of Floating Grease Chronicles in Seafeld City and the Demon Capital anomaly, and complete all collection objectives in \"Floating Grease Origin Retrace: Shiftmation!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Raccoon to the Moon",
+        "desc": "Use \"Interplanar Jump!\" to fly from the Demon Capital's TV tower into the interior of the Phantasmoon",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Moonsickness",
+        "desc": "Defeat \"Reflection of the Demonic Moon\" in \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Arcadia Variation: The Winking Star",
+        "desc": "Play a Bizarre Melody to find the mysterious creature hiding in Fallen Star's Cradle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Arcadia Variation: The Princess's Moon",
+        "desc": "Play a Bizarre Melody and find the mysterious creature hiding in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Wandered Half A Life, Yet to Meet a Wise Lord",
+        "desc": "Defeat the Super-Duper-HUGE Floatspirit during the \"Interplanar Jump!\" in Fallen Star's Cradle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Scavengers Rule",
+        "desc": "Salvage 1 piece(s) of scrap during the \"Interplanar Jump!\" in the Demon Capital",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "The Most Lovely Confession",
+        "desc": "Witness a fated reunion between two passersby on a street corner",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Apocalypse Capriccio",
+        "desc": "Catch a black cat playing hooky in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Set Sail, The Interstellar",
+        "desc": "Support Captain Swooshy's departure plan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Is This Photo Really Necessary?",
+        "desc": "Under the thunderous skies of the Demon Capital, use the Black Cat Instacam with lightning speed amidst the rolling thunder",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "Me Being Unpopular Is... Probably Not Your Fault",
+        "desc": "Help the cocooned wispae in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Thunder Squad",
+        "desc": "Put on a spectacular performance with the thundercoil in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Where Legends Begin",
+        "desc": "Clear all stages in Antigraft Brickbuster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Conquer the Infinite",
+        "desc": "Successfully clear an Infinite Mode stage in Antigraft Brickbuster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Beyond the Black Wall",
+        "desc": "Get 4 stars in all stages in Antigraft Brickbuster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Code Master",
+        "desc": "Use abilities 40 times in a single match in Antigraft Brickbuster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Code Expert",
+        "desc": "Use abilities 20 times in a single match in Antigraft Brickbuster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Ha Ha, Ha Ha Ha, Ha Ha Ha Ha Ha!",
+        "desc": "Use Gilgamesh in the Imagenae Holy Grail War and play 10 \"Gate of Babylon!\" at once",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "The Most Smashing Trailblazer in the Whole Universe",
+        "desc": "In the Imagenae Holy Grail War, use Trailblazer to play 8 \"Aha Smash!\" in a single ally turn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Bootleg Unlimited Blade Works",
+        "desc": "In the Imagenae Holy Grail War, use Archer to generate 4 Traced cards in a single ally turn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Starry Double-Kill Victory Sword",
+        "desc": "In the Imagenae Holy Grail War, have Saber use her Ultimate twice in a single ally turn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "O Mortals Who Would Bind a God with Chains",
+        "desc": "In the Imagenae Holy Grail War, max out a chimera's level",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Death to the Disloyal",
+        "desc": "Defeat 1 enemies using Rule Breaker in the Imagenae Holy Grail War",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "I Maxed Out My Defense",
+        "desc": "Play Rho Aias during the Imagenae Holy Grail War",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12655,6 +13007,102 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Fluffy Across the Blue",
+        "desc": "In a single battle, have 3 \"Trailblaze Companions\" characters (other than Himeko • Nova) use an Assist Skill",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Four O'Clock Afternoon Tea",
+        "desc": "Have Himeko • Nova unleash her Ultimate on her turn 4",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Journey Together",
+        "desc": "In a single battle, trigger special voicelines from 4 \"Trailblaze Companions\" characters using Himeko • Nova's Ultimate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Two-Thirds Divine",
+        "desc": "Upon victory, Gilgamesh's HP percentage is between 64% and 68%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Sufficient Noble Phantasm Reserves",
+        "desc": "Use Gilgamesh's Technique to hit 5 enemies or more",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Heaven and Earth Split, as They Should",
+        "desc": "Have Gilgamesh be the first character in the team to use his Ultimate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Over Budget",
+        "desc": "Have Rin Tohsaka consume more than 100 \"Gem Energy\" in a single combat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Golden Rule (Fake)",
+        "desc": "Pick up 8 Gold Coin(s) in a single instance using ally character Rin Tohsaka",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "When Fortune Fails, Even Heroes Struggle for Freedom",
+        "desc": "Win a battle with a team that includes both Rin Tohsaka and Archer, with Archer being knocked down 3 time(s) or more during the battle",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Deathbed Chorus",
+        "desc": "In a combat against the Comediologist, cause 4 or more Comediologists to use \"Curtain Call\" simultaneously",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Expert Bomb Defuser",
+        "desc": "During the battle against \"Asat Pramad,\" when he uses \"Meme Carnival,\" ensure there are no \"Meme'd\" remaining to detonate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Pick It Up on the Fly",
+        "desc": "In the battle against \"Asat Pramad,\" use the \"Barrier\" obtained from \"Gambit of Converging Fates\" to resist the DMG from \"The Game Is On\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4080101": {
         "id": "4080101",
         "series_id": "8",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Do You Wanna Build a Snowman?",
         "desc": "Frozen in an ice block during \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Tribulation Failed",
+        "desc": "Get struck by lightning 1 time(s) in the Demon Capital",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Not Faster Than Light",
+        "desc": "Get struck by lightning 1 time(s) during the \"Interplanar Jump!\" in the Demon Capital",
         "hide_desc": "",
         "hide": false
     },

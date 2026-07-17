@@ -1549,6 +1549,36 @@
         "preview": "image/light_cone_preview/23059.png",
         "portrait": "image/light_cone_portrait/23059.png"
     },
+    "23060": {
+        "id": "23060",
+        "name": "",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "",
+        "icon": "icon/light_cone/23060.png",
+        "preview": "image/light_cone_preview/23060.png",
+        "portrait": "image/light_cone_portrait/23060.png"
+    },
+    "23061": {
+        "id": "23061",
+        "name": "",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "",
+        "icon": "icon/light_cone/23061.png",
+        "preview": "image/light_cone_preview/23061.png",
+        "portrait": "image/light_cone_portrait/23061.png"
+    },
+    "23062": {
+        "id": "23062",
+        "name": "",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "",
+        "icon": "icon/light_cone/23062.png",
+        "preview": "image/light_cone_preview/23062.png",
+        "portrait": "image/light_cone_portrait/23062.png"
+    },
     "24000": {
         "id": "24000",
         "name": "О падении Эона",

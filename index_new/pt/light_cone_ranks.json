@@ -1978,7 +1978,7 @@
     "21061": {
         "id": "21061",
         "skill": "Relaxe",
-        "desc": "Aumenta o Dano causado pelo usuário em #1[i]%. Após o usuário atacar, há uma chance-base de #2[i]% de que o alvo atacado sofra Vulnerabilidade, aumentando o Dano que recebe em #3[i]% por #4[i] rodada(s). O mesmo tipo de efeito não pode ser acumulado.",
+        "desc": "Aumenta o Dano causado pelo usuário em #1[i]%. Após o usuário atacar, há uma chance-base de #2[i]% de que o alvo atacado sofra Vulnerabilidade, aumentando o Dano que recebe em #3[i]% por #4[i] rodada(s). Efeitos do mesmo tipo não podem acumular.",
         "params": [
             [0.16, 1, 0.1, 2],
             [0.2, 1, 0.115, 2],
@@ -3519,7 +3519,7 @@
     "23042": {
         "id": "23042",
         "skill": "Tolerância",
-        "desc": "Aumenta a VEL do usuário em #1[i]%. Quando o usuário usa ATQ Básico, Perícia ou Perícia Suprema, consome os PV de todos os aliados em um valor igual a #2[f1]% de seus PV, e após o próximo ataque do Memoespírito do usuário, habilita ele a causar adicionalmente 1 instância de Dano Adicional igual a #6[f1]% do total de PV consumidos ao alvo atacado, com o tipo de dano baseado no tipo do Memoespírito. Em seguida, o total de PV consumidos é reiniciado. Quando o Memoespírito do usuário usa a Perícia de Memoespírito, aumenta o Dano recebido por todos os inimigos em #4[f1]%, com duração de #5[i] rodada(s). Efeitos do mesmo tipo não podem ser acumulados.",
+        "desc": "Aumenta a VEL do usuário em #1[i]%. Quando o usuário usa ATQ Básico, Perícia ou Perícia Suprema, consome os PV de todos os aliados em um valor igual a #2[f1]% de seus PV, e após o próximo ataque do Memoespírito do usuário, habilita ele a causar adicionalmente 1 instância de Dano Adicional igual a #6[f1]% do total de PV consumidos ao alvo atacado, com o tipo de dano baseado no tipo do Memoespírito. Em seguida, o total de PV consumidos é reiniciado. Quando o Memoespírito do usuário usa a Perícia de Memoespírito, aumenta o Dano recebido por todos os inimigos em #4[f1]%, com duração de #5[i] rodada(s). Efeitos do mesmo tipo não podem acumular.",
         "params": [
             [0.18, 0.01, 0, 0.18, 2, 2.5],
             [0.21, 0.0125, 0, 0.225, 2, 3.125],
@@ -3664,7 +3664,7 @@
     "23047": {
         "id": "23047",
         "skill": "Solo",
-        "desc": "Aumenta a Taxa de Acerto de Efeito do usuário em #1[i]%. Quando um inimigo-alvo fica sob efeito de uma penalidade aplicada pelo usuário, há uma chance-base de #2[i]% de ser afetado pelo efeito \"Fascínio\", que dura por #3[i] rodada(s). Efeitos do mesmo tipo não acumulam. Enquanto afetado por \"Fascínio\", cada penalidade aplicada pelo usuário ao alvo aumenta o Dano Contínuo recebido pelo alvo em #4[f1]%, acumulando até um máximo de #5[i] vez(es). Quando o alvo é atacado por um aliado, aumenta a VEL do atacante em #6[f1]% por #7[i] rodada(s). Quando o usuário é derrubado, remove todos os efeitos de \"Fascínio\".",
+        "desc": "Aumenta a Taxa de Acerto de Efeito do usuário em #1[i]%. Quando um inimigo-alvo fica sob efeito de uma penalidade aplicada pelo usuário, há uma chance-base de #2[i]% de ser afetado pelo efeito \"Fascínio\", que dura por #3[i] rodada(s). Efeitos do mesmo tipo não podem acumular. Enquanto afetado por \"Fascínio\", cada penalidade aplicada pelo usuário ao alvo aumenta o Dano Contínuo recebido pelo alvo em #4[f1]%, acumulando até um máximo de #5[i] vez(es). Quando o alvo é atacado por um aliado, aumenta a VEL do atacante em #6[f1]% por #7[i] rodada(s). Quando o usuário é derrubado, remove todos os efeitos de \"Fascínio\".",
         "params": [
             [0.4, 0.8, 3, 0.05, 6, 0.1, 3],
             [0.45, 0.8, 3, 0.0625, 6, 0.125, 3],
@@ -3722,7 +3722,7 @@
     "23049": {
         "id": "23049",
         "skill": "Sem Sono",
-        "desc": "Aumenta os PV máximos do usuário em #1[i]%. Quando o Memoespírito do usuário usa uma habilidade, o usuário ganha \"Noctis\". Enquanto o usuário possui \"Noctis\", os Memoespíritos de todos os aliados ignoram #2[i]% da DEF do alvo ao causar Dano. Aumenta o Dano causado pelo usuário e seu Memoespírito em #3[i]%. Quando o Memoespírito do usuário desaparece, o usuário recupera #4[i] de Energia. Efeitos similares não podem ser acumulados.",
+        "desc": "Aumenta os PV máximos do usuário em #1[i]%. Quando o Memoespírito do usuário usa uma habilidade, o usuário ganha \"Noctis\". Enquanto o usuário possui \"Noctis\", os Memoespíritos de todos os aliados ignoram #2[i]% da DEF do alvo ao causar Dano. Aumenta o Dano causado pelo usuário e seu Memoespírito em #3[i]%. Quando o Memoespírito do usuário desaparece, o usuário recupera #4[i] de Energia. Efeitos do mesmo tipo não podem acumular.",
         "params": [
             [0.3, 0.2, 0.3, 8],
             [0.375, 0.225, 0.375, 10],
@@ -3838,7 +3838,7 @@
     "23053": {
         "id": "23053",
         "skill": "Centro das Atenções",
-        "desc": "Aumenta o Dano CRIT do usuário em #1[i]%. Enquanto o usuário estiver no campo, para cada 1 personagem de Euforia na equipe, o limite máximo de Pontos de Perícia aumenta em #2[i], até um aumento máximo de #3[i]. Para cada 1 Ponto de Perícia consumido pelo usuário, o Dano de Euforia causado por esta unidade ignora #6[f1]% da DEF dos inimigos-alvo, acumulando até #5[i] vezes. Se #7[i] ou mais Pontos de Perícia forem consumidos na mesma rodada, o usuário ganha \"Promoção da Stream\", o que aumenta a Euforia de todos os aliados em #4[i]%. Efeitos de Cone de Luz do mesmo tipo não podem ser acumulados.",
+        "desc": "Aumenta o Dano CRIT do usuário em #1[i]%. Enquanto o usuário estiver no campo, para cada 1 personagem de Euforia na equipe, o limite máximo de Pontos de Perícia aumenta em #2[i], até um aumento máximo de #3[i]. Para cada 1 Ponto de Perícia consumido pelo usuário, o Dano de Euforia causado por esta unidade ignora #6[f1]% da DEF dos inimigos-alvo, acumulando até #5[i] vezes. Se #7[i] ou mais Pontos de Perícia forem consumidos na mesma rodada, o usuário ganha \"Promoção da Stream\", o que aumenta a Euforia de todos os aliados em #4[i]%. Efeitos do mesmo tipo de Cone de Luz não podem acumular.",
         "params": [
             [0.48, 1, 3, 0.2, 4, 0.05, 4],
             [0.56, 1, 3, 0.24, 4, 0.06, 4],
@@ -3954,7 +3954,7 @@
     "23058": {
         "id": "23058",
         "skill": "Devaneio",
-        "desc": "Aumenta o Dano CRIT do usuário em #1[i]% e a Taxa de Regeneração de Energia em #4[f1]%. Quando a Energia Máxima do usuário for maior que #5[i], para cada 10 pontos de Energia Máxima que excederem esse valor, aumenta adicionalmente a Taxa de Regeneração de Energia em #6[f1]%. Até um máximo de #7[i] pontos de Energia Máxima excedente podem ser levados em consideração. Quando o usuário usa uma Perícia da Euforia, aumenta o Dano recebido por todos os inimigos em #2[f1]% por #3[i] rodada(s). Efeitos do mesmo tipo não podem ser acumulados.",
+        "desc": "Aumenta o Dano CRIT do usuário em #1[i]% e a Taxa de Regeneração de Energia em #4[f1]%. Quando a Energia Máxima do usuário for maior que #5[i], para cada 10 pontos de Energia Máxima que excederem esse valor, aumenta adicionalmente a Taxa de Regeneração de Energia em #6[f1]%. Até um máximo de #7[i] pontos de Energia Máxima excedente podem ser levados em consideração. Quando o usuário usa uma Perícia da Euforia, aumenta o Dano recebido por todos os inimigos em #2[f1]% por #3[i] rodada(s). Efeitos do mesmo tipo não podem acumular.",
         "params": [
             [0.6, 0.15, 2, 0.1, 120, 0.003, 360],
             [0.75, 0.1875, 2, 0.115, 120, 0.003, 360],
@@ -3983,7 +3983,7 @@
     "23059": {
         "id": "23059",
         "skill": "Têmpera",
-        "desc": "Aumenta os PV máximos do usuário em #1[i]%. No início da rodada do usuário, regenera uma quantidade fixa de #2[i] de Energia. Este efeito pode ser ativado 1 vez a cada onda. Depois que o usuário usa sua Perícia para atacar, inflige o alvo com o estado de \"Purgatório\", durando por #3[i] rodada(s). Enquanto estiver no estado de \"Purgatório\", o alvo recebe #4[i]% a mais de Dano e #5[i]% a mais de Dano adicionalmente do usuário.",
+        "desc": "Aumenta os PV máximos do usuário em #1[i]%. No início da rodada do usuário, regenera uma quantidade fixa de #2[i] de Energia. Este efeito pode ser ativado 1 vez a cada onda. Depois que o usuário usa a Perícia para atacar, inflige o alvo com o estado de \"Purgatório\", que dura #3[i] rodada(s). Enquanto estiver no estado de \"Purgatório\", o alvo recebe #4[i]% a mais de Dano CRIT e recebe adicionalmente #5[i]% a mais de Dano CRIT do usuário.",
         "params": [
             [0.3, 20, 2, 0.3, 0.3],
             [0.375, 20, 2, 0.375, 0.375],
@@ -4006,6 +4006,88 @@
             ],
             [
                 { "type": "HPAddedRatio", "value": 0.6 }
+            ]
+        ]
+    },
+    "23060": {
+        "id": "23060",
+        "skill": "Primeiro Desejo",
+        "desc": "O usuário ignora #7[i]% da DEF do alvo ao causar Dano. Quando o usuário usa uma Perícia de Assistência, recupera #2[i] de Energia e obtém \"Zarpar\", que dura por 2 rodadas e acumula até #3[i] vez(es). Cada acúmulo de \"Zarpar\" aumenta o Dano da Perícia de Assistência em #4[i]%. Quando \"Zarpar\" atinge #5[i] acúmulos, cada acúmulo de \"Zarpar\" aumenta o Dano da Perícia Suprema em #6[i]%.",
+        "params": [
+            [0, 6, 3, 0.2, 3, 0.2, 0.32],
+            [0, 6, 3, 0.25, 3, 0.25, 0.36],
+            [0, 6, 3, 0.3, 3, 0.3, 0.4],
+            [0, 6, 3, 0.35, 3, 0.35, 0.44],
+            [0, 6, 3, 0.4, 3, 0.4, 0.48]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "23061": {
+        "id": "23061",
+        "skill": "Germinação",
+        "desc": "Aumenta a Chance de CRIT do usuário em #1[i]%. Quando qualquer personagem aliado consome um total de #3[i] ou mais Pontos de Perícia em uma única rodada, o usuário ganha \"Coroa Radiante\", durando por #4[i] rodada(s). Enquanto o usuário tiver \"Coroa Radiante\", o Dano causado de todos os aliados ignora #5[i]% da DEF do alvo, e o Dano de Perícia causado pelo usuário aumenta em #2[i]%. Efeitos do mesmo tipo não podem acumular.",
+        "params": [
+            [0.18, 0.72, 4, 3, 0.2],
+            [0.21, 0.84, 4, 3, 0.24],
+            [0.24, 0.96, 4, 3, 0.28],
+            [0.27, 1.08, 4, 3, 0.32],
+            [0.3, 1.2, 4, 3, 0.36]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.24 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.27 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23062": {
+        "id": "23062",
+        "skill": "À Vontade",
+        "desc": "Aumenta o ATQ do usuário em #1[i]% e a Taxa de Regeneração de Energia em #2[f1]%. Quando o usuário usa sua Perícia Suprema, o Dano da Perícia Suprema causado dessa vez aumenta em #3[f2]% para cada 1 de Energia consumida, até um máximo de #6[i]%. Quando o usuário entra em combate ou usa sua Perícia Suprema, ele obtém \"Entretenimento do Rei\", que dura por #4[i] rodada(s). Enquanto o usuário possuir \"Entretenimento do Rei\", o Dano CRIT de todos os aliados aumenta em #5[i]%. Efeitos do mesmo tipo não podem acumular.",
+        "params": [
+            [0.18, 0.1, 0.002, 3, 0.24, 0.72],
+            [0.21, 0.125, 0.0025, 3, 0.3, 0.9],
+            [0.24, 0.15, 0.003, 3, 0.36, 1.08],
+            [0.27, 0.175, 0.0035, 3, 0.42, 1.26],
+            [0.3, 0.2, 0.004, 3, 0.48, 1.44]
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.18 },
+                { "type": "SPRatioBase", "value": 0.1 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.21 },
+                { "type": "SPRatioBase", "value": 0.125 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.24 },
+                { "type": "SPRatioBase", "value": 0.15 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.27 },
+                { "type": "SPRatioBase", "value": 0.175 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.3 },
+                { "type": "SPRatioBase", "value": 0.2 }
             ]
         ]
     },

@@ -732,7 +732,7 @@
         "series_id": "3",
         "title": "Caçada Épica: Culminação",
         "desc": "Mappô: Conflagração. Conclua a Caçada Épica. Isso também é registrado nas \"Inscrições Cósmicas do Ninjutsu\"",
-        "hide_desc": "※ Derrote o Escritório Bananacadêmico da Floresta das Maravilhas",
+        "hide_desc": "※ Derrote o \"Escritório Bananacadêmico\" da Floresta das Maravilhas",
         "hide": false
     },
     "4033602": {
@@ -1662,6 +1662,110 @@
         "desc": "Nada mata uma piada tão rápido quanto explicá-la",
         "hide_desc": "※ Testemunhe a revelação da verdadeira identidade de Asat Pramad",
         "hide": false
+    },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Metrópole das Criaturas Fantásticas",
+        "desc": "Testemunhe o futuro de Planarcadia mergulhar na escuridão da perdição",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Metrô 1999",
+        "desc": "Reúna-se com seus companheiros na Estação Perdido",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "O Ponto de Partida Chamado \"Himeko\"",
+        "desc": "Tudo começa aqui...",
+        "hide_desc": "※ Testemunhe o ponto de partida da jornada de Himeko",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "A Onda Gravitacional Que Nunca Se Apaga",
+        "desc": "Desbravar é viajar além da gravidade",
+        "hide_desc": "※ Entregue as informações sobre Asat Pramad para a Tripulação do Expresso",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "O Autorretrato Chamado \"Desbravamento\"",
+        "desc": "Uma jornada alegre faz a vida valer a viagem",
+        "hide_desc": "※ Conclua o desafio em que Asat Pramad revela a verdade",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Todas as Cores em Uma",
+        "desc": "O Spiritus vê: nenhuma forma tem forma",
+        "hide_desc": "※ Veja através das inúmeras encarnações de Asat Pramad",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Silêncio",
+        "desc": "Silêncio, o fim de todas as coisas.",
+        "hide_desc": "※ A cabeça decepada contempla a si mesma derrotada e, de repente, ele sente vontade de rir",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
     },
     "4040101": {
         "id": "4040101",
@@ -4187,7 +4291,7 @@
         "id": "4045201",
         "series_id": "4",
         "title": "Feriado Pelo Resto da Minha Vida",
-        "desc": "Colete um total de 110 Poeirinhas Inominadas do Coelho Estelar",
+        "desc": "Colete um total de 110 Poeirinhas sem nome do Coelho Estelar",
         "hide_desc": "",
         "hide": false
     },
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Variação de Arcádia: Criança de Neve",
         "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida no Retiro Purificarte",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Magnata {F#Rica}{M#Rico}",
+        "desc": "Abra tesouros de Planarcadia 400 vezes",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Adeus, Raioso",
+        "desc": "Rebata temporariamente o Raioso durante a \"Hora de Saltar\" na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Me Chame de Isolante",
+        "desc": "Seja {F#atingida}{M#atingido} por raios menos de 20 vezes ao concluir a \"Hora de Saltar\" na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Ponte Para as Estrelas",
+        "desc": "Construa uma ponte no \"Salto Interplanar!\" no Berço da Estrela Caída",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "O Primeiro Livro de Desenho",
+        "desc": "Domine o pincel que pinta histórias no Berço da Estrela Caída",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Uma Vida de Esplendor",
+        "desc": "Pinte a história do \"seu\" passado no Berço da Estrela Caída",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Genealogia Arcadiana",
+        "desc": "Colete todas as novas entradas descobertas das \"Crônicas da Gordura Flutuante\" na Cidade de Felipe de Noronha e na anomalia da Capital dos Demônios, e conclua todos os objetivos de coleta em \"Retorno à Origem da Gordura Flutuante: Transformanimação!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Guaxinim à Lua",
+        "desc": "Use \"Salto Interplanar!\" para voar da torre de TV da Capital dos Demônios até o interior da Lua Fantasma",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Enjoo Lunar",
+        "desc": "Derrote \"Reflexo da Lua Demoníaca\" no \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Variação da Arcádia: A Estrela Piscante",
+        "desc": "Toque uma Melodia Bizarra para encontrar a criatura misteriosa escondida no Berço da Estrela Caída",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Variação da Arcádia: A Lua da Princesa",
+        "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Metade da Vida Vagando, Sem Encontrar Um Senhor Sábio",
+        "desc": "Derrote o Espírito Flutuante Mega-Ultra-GIGANTE durante o \"Salto Interplanar!\" no Berço da Estrela Caída",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Lei dos Catadores",
+        "desc": "Faça a Decomposição de 1 peça(s) de sucata durante o \"Salto Interplanar!\" na Capital dos Demônios",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "A Confissão Mais Encantadora",
+        "desc": "Testemunhe um encontro predestinado entre dois transeuntes em uma esquina",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Rapsódia do Delírio Apocalíptico",
+        "desc": "Pegue um gato preto matando o trabalho na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Zarpe, Interestelar",
+        "desc": "Apoie o plano de partida do Capitão Zuum",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Essa Foto é Realmente Necessária?",
+        "desc": "Sob os céus trovejantes da Capital dos Demônios, use a Polazoid Gato Preto com a velocidade de um raio em meio aos trovões",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "Eu Não Ser Popular... Provavelmente Não é Culpa Sua",
+        "desc": "Ajude as Poeirinhas encasuladas na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Esquadrão do Trovão",
+        "desc": "Faça uma performance espetacular com o Raioso na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Onde as Lendas Começam",
+        "desc": "Vença todos os estágios do Demolidor Anticorrupção",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "A Conquista do Infinito",
+        "desc": "Conclua um estágio do Modo Infinito no Demolidor Anticorrupção",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Além do Muro Negro",
+        "desc": "Consiga 4 estrelas em todos os estágios do Demolidor Anticorrupção",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "{F#Mestra}{M#Mestre} dos Códigos",
+        "desc": "Use habilidades 40 vezes em uma única partida no Demolidor Anticorrupção",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Especialista em Códigos",
+        "desc": "Use habilidades 20 vezes em uma única partida no Demolidor Anticorrupção",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Ha Ha, Ha Ha Ha, Ha Ha Ha Ha Ha!",
+        "desc": "Use Gilgamesh na Guerra do Santo Graal de Imagenae e jogue 10 \"Portão da Babilônia!\" de uma vez",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "{F#A Desbravadora}{M#O Desbravador} Mais Incrível de Todo o Universo",
+        "desc": "Na Guerra do Santo Graal de Imagenae, use {M#o Desbravador}{F#a Desbravadora} para jogar 8 \"Aha Maceta!\" em uma única rodada aliada",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Unlimited Blade Works Pirata",
+        "desc": "Na Guerra do Santo Graal de Imagenae, use Archer para gerar 4 cartas Projetadas em uma única rodada aliada",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Espada da Vitória Estrelada do Abate Duplo",
+        "desc": "Na Guerra do Santo Graal de Imagenae, faça a Saber usar a Perícia Suprema dela duas vezes em uma única rodada aliada",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "Ó Mortais Que Desejam Acorrentar Um Deus",
+        "desc": "Na Guerra do Santo Graal de Imagenae, maximize o nível de uma quimera",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Morte aos Desleais",
+        "desc": "Derrote 1 inimigos usando Rule Breaker na Guerra do Santo Graal de Imagenae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "Maximizei Minha Defesa",
+        "desc": "Jogue Rho Aias durante a Guerra do Santo Graal de Imagenae",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -11155,7 +11507,7 @@
         "id": "4072902",
         "series_id": "7",
         "title": "Meu Coração e Minhas Ações Estão Completamente Límpidos",
-        "desc": "Na batalha contra Argenti, derrote o Ponta de Lança, o Escudo e o Honrado enquanto eles estiverem no estado de Alma-Liberta",
+        "desc": "Na batalha contra Argenti, derrote o Ponta de Lança, o Escudo e o Honrado enquanto eles estiverem no estado de \"Alma-Liberta\"",
         "hide_desc": "",
         "hide": true
     },
@@ -11163,7 +11515,7 @@
         "id": "4072903",
         "series_id": "7",
         "title": "As Coisas que Eu Faço pela Beleza",
-        "desc": "Na batalha contra Argenti, o Ponta de Lança, o Escudo e o Honrado não entraram no estado de Alma-Liberta",
+        "desc": "Na batalha contra Argenti, o Ponta de Lança, o Escudo e o Honrado não entraram no estado de \"Alma-Liberta\"",
         "hide_desc": "",
         "hide": true
     },
@@ -11635,7 +11987,7 @@
         "id": "4073601",
         "series_id": "7",
         "title": "{F#Mestra}{M#Mestre} em Bananeducação",
-        "desc": "Impeça os Funcionários do Escritório Bananacadêmico da Floresta das Maravilhas de usarem \"Ao Doutor: Relatório Bananacadêmico\" durante a luta",
+        "desc": "Impeça os Funcionários do \"Escritório Bananacadêmico\" da Floresta das Maravilhas de usarem \"Ao Doutor: Relatório Bananacadêmico\" durante a luta",
         "hide_desc": "",
         "hide": false
     },
@@ -11643,7 +11995,7 @@
         "id": "4073602",
         "series_id": "7",
         "title": "{F#Desbananada}{M#Desbananado}",
-        "desc": "Garanta que todos os membros do Escritório Bananacadêmico sofram Quebra de Fraqueza ao mesmo tempo durante a luta contra os Funcionários do Escritório Bananacadêmico da Floresta das Maravilhas",
+        "desc": "Garanta que todos os membros do \"Escritório Bananacadêmico\" sofram Quebra de Fraqueza ao mesmo tempo durante a luta contra a Equipe do Escritório Bananacadêmico da Floresta das Maravilhas",
         "hide_desc": "",
         "hide": false
     },
@@ -12531,7 +12883,7 @@
         "id": "4075108",
         "series_id": "7",
         "title": "Ditador de Tendências das Bolhas",
-        "desc": "Ative o Efeito \"Brilhante\" do Sabonete Espumante Potente pelo menos 3 vez(es) em uma única batalha contra o \"Mechatron de Liga: Rei Pom-Pom\"",
+        "desc": "Ative o Efeito \"Brilhante\" do Sabão de Espumante Potente pelo menos 3 vez(es) em uma única batalha contra o \"Mechatron de Liga: Rei Pom-Pom\"",
         "hide_desc": "",
         "hide": false
     },
@@ -12654,6 +13006,102 @@
         "desc": "Faça o personagem aliado Mortenax Blade usar \"Tenax Per Ignem\" 6 vez(es) durante uma única ativação do estado de \"Fúria Infinita\"",
         "hide_desc": "",
         "hide": true
+    },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Fofurinha Através do Azul",
+        "desc": "Em uma única batalha, faça com que 3 personagens \"Companheiros de Desbravamento\" (exceto Himeko - Nova) usem uma Perícia de Assistência",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Chá da Tarde às Quatro Horas",
+        "desc": "Utilize a Perícia Suprema de Himeko - Nova na rodada 4 dela",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Vamos Viajar Juntos",
+        "desc": "Em uma única batalha, ative falas especiais de 4 personagens \"Companheiros de Desbravamento\" usando a Perícia Suprema de Himeko - Nova",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Dois Terços Divino",
+        "desc": "Ao vencer, os PV de Gilgamesh ficam entre 64% e 68%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Reservas de Fantasmas Nobres Suficientes",
+        "desc": "Use a Técnica de Gilgamesh para atingir 5 ou mais inimigos",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "O Paraíso e a Terra Divididos, Como Deve Ser",
+        "desc": "Faça com que Gilgamesh seja o primeiro personagem da equipe a usar a Perícia Suprema",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Acima do Orçamento",
+        "desc": "Faça com que Rin Tohsaka consuma mais de 100 de \"Energia de Gema\" em um único combate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Regra de Ouro (Falsa)",
+        "desc": "Colete 8 Moeda(s) de Ouro em uma única instância usando a personagem aliada Rin Tohsaka",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Quando o Destino Falha, Até os Heróis Lutam Pela Liberdade",
+        "desc": "Vença uma batalha com uma equipe que inclua tanto Rin Tohsaka quanto Archer, com Archer sendo derrubado 3 vez(es) ou mais durante a batalha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Refrão do Leito de Morte",
+        "desc": "Em um combate contra o \"Comediologista\", faça com que 4 ou mais \"Comediologistas\" usem \"Última Apresentação\" simultaneamente",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Especialista em Desarmamento de Bombas",
+        "desc": "Durante a batalha contra \"Asat Pramad\", quando ele usar \"Carnaval de Memes\", garanta que não haja nenhum \"Zoado\" restante para detonar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Aprender na Prática",
+        "desc": "Na batalha contra \"Asat Pramad\", use a \"Barreira\" obtida em \"Gambito dos Destinos Convergentes\" para resistir ao Dano de \"O Jogo Começou\"",
+        "hide_desc": "",
+        "hide": false
     },
     "4080101": {
         "id": "4080101",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Você Quer Brincar na Neve? Um Boneco Quer Fazer?",
         "desc": "Fique {F#congelada}{M#congelado} em um bloco de gelo durante o \"Salto Interplanar!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Provação Fracassada",
+        "desc": "Seja {F#atingida}{M#atingido} por raios 1 vez(es) na Capital dos Demônios",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Não Mais Rápido que a Luz",
+        "desc": "Seja {F#atingida}{M#atingido} por raios 1 vez(es) durante o \"Salto Interplanar!\" na Capital dos Demônios",
         "hide_desc": "",
         "hide": false
     },

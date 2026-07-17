@@ -1549,6 +1549,36 @@
         "preview": "image/light_cone_preview/23059.png",
         "portrait": "image/light_cone_portrait/23059.png"
     },
+    "23060": {
+        "id": "23060",
+        "name": "Khi Một Vì Sao Chiếu Sáng Trời Đêm",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Nhìn lại thuở ấu thơ, lần đầu tiên nghe những câu chuyện phiêu lưu về \"Khai Phá\".\nTrái tim nhỏ bé nhảy lên trước sự thần bí và bao la của vũ trụ, thế là cô cầm cọ vẽ lên, phác họa những mường tượng đầu tiên về toàn vũ trụ.\n\"Một con tàu sao chổi, một đường ray bạc, một hoa tiêu...\"\n\"Như vậy, có phải là đã có thể khai phá rồi không?\"\nNhưng lời nguyền đã níu giữ bước chân cô, giường bệnh giam cầm cả tuổi thanh xuân.\nTrong những tháng ngày cô độc, những chồng sách cao ngất, những bản vẽ động cơ lộn xộn, những lọ màu cạn khô đã trở thành điều thường nhật.\nBóng dáng gầy gò vung những nét cọ, tỉ mỉ phác họa giấc mơ mà cô hằng mong đợi.\n\"Có lẽ mình có thể giành giật thêm nhiều khả năng nữa trong khoảng thời gian có hạn này.\"\n\"Dù chỉ là mơ, cũng đáng để được điểm tô bằng những sắc màu.\"\nKhi những vì sao luân chuyển một lần nữa, giữa khoảnh khắc cụp mắt và ngước nhìn, cô đã khởi hành bước lên chuyến hành trình hướng tới các vì sao.\nMang theo tâm nguyện chung cùng những người bạn, trở thành con người mà cô khát vọng.\n\"Hành trình thuộc về Khai Phá, bắt đầu vào khoảnh khắc này.\"\nĐội Tàu băng qua vũ trụ, dấu ấn hành trình của hoa tiêu sát cánh tiến bước cùng những người đồng hành tạo nên đường ray bạc vững chắc.\n\"Hãy cùng nhau hướng tới tương lai nơi những vì sao hội tụ nhé!\"",
+        "icon": "icon/light_cone/23060.png",
+        "preview": "image/light_cone_preview/23060.png",
+        "portrait": "image/light_cone_portrait/23060.png"
+    },
+    "23061": {
+        "id": "23061",
+        "name": "Ngọn Lửa Nhỏ Thầm Lặng Tỏa Sáng",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Khoảnh khắc ma lực tuôn trào, sắc màu rực rỡ của bảo thạch in đầy trên tường.\nThiếu nữ nở nụ cười ngạc nhiên mừng rỡ, cẩn thận nâng niu những đốm sáng đang dập dờn.\n\"Mình thành công rồi! Từ nay về sau, liệu mình cũng có thể trở thành phù thủy vĩ đại chứ?\"\nCô mường tượng về tương lai của một phù thủy, gieo vào lòng một hạt giống ước nguyện.\n\"Cố lên! Rin Tohsaka. Thành công một lần thôi chưa đủ, phải thành công vô số lần mới được!\"\n\"Mặc dù không biết tương lai sẽ ra sao, nhưng hiện tại, hãy cứ tiến lên theo ý muốn của bản thân nhé!\"\nTại khoảnh khắc thành công này, những yêu cầu của chính mình, kỳ vọng của gia tộc, và trọng trách đang gánh vác sẽ cùng hội tụ lại.\nThiếu nữ thầm cổ vũ bản thân, cô đã sẵn sàng trở thành phiên bản tốt hơn của chính mình.\nChặng đường phía trước dài đằng đẵng và gian nan, nhưng trái tim nhiệt thành lại còn rực sáng hơn cả phép thuật.",
+        "icon": "icon/light_cone/23061.png",
+        "preview": "image/light_cone_preview/23061.png",
+        "portrait": "image/light_cone_portrait/23061.png"
+    },
+    "23062": {
+        "id": "23062",
+        "name": "Ngươi Thấy Chính Là Ta",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Của cải, quyền năng, chinh phục, thử thách... những mảnh vụn hỗn độn không ngừng lặp lại trong tâm trí ngài.\nTrong khoảnh khắc ánh đèn lay động, nhà vua uống cạn những thứ trong ly.\n\"Của cải dồi dào, lãnh thổ vô biên, quyền năng nắm trọn, mọi thứ đáng có đều thuộc về bổn vương.\"\n\"Nhưng nếu chỉ có vậy, đời người còn có ý nghĩa gì?\"\nBóng dáng lười biếng ngả xuống chiếc sofa mềm mại, mọi tâm tư tan biến thành mây khói trong chớp mắt.\nĐôi khi, nhà vua cũng cần thuận theo dục vọng của chính mình, tận hưởng chút vui vẻ.\n\"Cầu được ước thấy có quan trọng gì, thời khắc sinh mệnh nhảy múa tùy ý, mới là thời khắc mà bổn vương yêu thích nhất.\"",
+        "icon": "icon/light_cone/23062.png",
+        "preview": "image/light_cone_preview/23062.png",
+        "portrait": "image/light_cone_portrait/23062.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Sự Sụp Đổ Của Aeon",

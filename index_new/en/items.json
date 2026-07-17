@@ -1332,6 +1332,33 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11508": {
+        "id": "11508",
+        "name": "Rin Tohsaka's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11509": {
+        "id": "11509",
+        "name": "Gilgamesh's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11510": {
+        "id": "11510",
+        "name": "Himeko • Nova's Eidolon",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Shadow of Destruction",
@@ -3845,6 +3872,84 @@
             "\"Omni-Synthesizer\" — Relic Synthesis"
         ]
     },
+    "83271": {
+        "id": "83271",
+        "name": "Fallen Star Anchorage",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83272": {
+        "id": "83272",
+        "name": "Fallen Star Anchorage",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83273": {
+        "id": "83273",
+        "name": "Fallen Star Anchorage",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83274": {
+        "id": "83274",
+        "name": "Fallen Star Anchorage",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71058.png",
+        "come_from": [
+            "Divergent Universe: Planar Ornament Extraction",
+            "Omni-Synthesizer — Relic Synthesis"
+        ]
+    },
+    "83281": {
+        "id": "83281",
+        "name": "Cosmic Life Sciences Institute",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83282": {
+        "id": "83282",
+        "name": "Cosmic Life Sciences Institute",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83283": {
+        "id": "83283",
+        "name": "Cosmic Life Sciences Institute",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83284": {
+        "id": "83284",
+        "name": "Cosmic Life Sciences Institute",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71059.png",
+        "come_from": [
+            "Divergent Universe: Planar Ornament Extraction",
+            "Omni-Synthesizer — Relic Synthesis"
+        ]
+    },
     "89001": {
         "id": "89001",
         "name": "Planar Ornaments",
@@ -5071,6 +5176,15 @@
         "icon": "icon/item/110508.png",
         "come_from": ["Echo of War: \"Memortis Shore\" Ruins of Time"]
     },
+    "110509": {
+        "id": "110509",
+        "name": "High Hopes of the Falsely Enlightened",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110509.png",
+        "come_from": ["Echo of War: Desolate Maw's Demonhold"]
+    },
     "110610": {
         "id": "110610",
         "name": "Tears of Rail",
@@ -5785,6 +5899,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/295534.png",
+        "come_from": []
+    },
+    "122004": {
+        "id": "122004",
+        "name": "Anomaly Arbitration Limited-Time Clearance Medal",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295535.png",
         "come_from": []
     },
     "123000": {
@@ -10555,6 +10678,159 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140613": {
+        "id": "140613",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140614": {
+        "id": "140614",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140615": {
+        "id": "140615",
+        "name": "",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": null,
+        "come_from": []
+    },
+    "140616": {
+        "id": "140616",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140617": {
+        "id": "140617",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140618": {
+        "id": "140618",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140619": {
+        "id": "140619",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140620": {
+        "id": "140620",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140621": {
+        "id": "140621",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140622": {
+        "id": "140622",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140623": {
+        "id": "140623",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140624": {
+        "id": "140624",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140625": {
+        "id": "140625",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140626": {
+        "id": "140626",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140627": {
+        "id": "140627",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140628": {
+        "id": "140628",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140629": {
+        "id": "140629",
+        "name": "Setting Sail Among the Stars Picture Book",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
         "come_from": []
     },
     "149957": {
@@ -21519,6 +21795,159 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192107": {
+        "id": "192107",
+        "name": "Good Night, Dear Thundercoil",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192108": {
+        "id": "192108",
+        "name": "Diary of an Opportunist",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192109": {
+        "id": "192109",
+        "name": "Emergency Evacuation Notice",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192110": {
+        "id": "192110",
+        "name": "Doomsday Blog",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192111": {
+        "id": "192111",
+        "name": "Mechatron Freedom Manifesto",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192113": {
+        "id": "192113",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192114": {
+        "id": "192114",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192115": {
+        "id": "192115",
+        "name": "Floating Grease Chronicles: Literary Fragment",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192116": {
+        "id": "192116",
+        "name": "Floating Grease Chronicles: Chapter of the Monkey",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192117": {
+        "id": "192117",
+        "name": "Floating Grease Chronicles: Chapter of the Rabbit",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192118": {
+        "id": "192118",
+        "name": "\"Human Resources Department\" Investigative Report",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192119": {
+        "id": "192119",
+        "name": "\"Intangible Assets Department\" Investigative Report",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192120": {
+        "id": "192120",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192121": {
+        "id": "192121",
+        "name": "A Letter for Himeko",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192122": {
+        "id": "192122",
+        "name": "Procurement List",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192123": {
+        "id": "192123",
+        "name": "Pegana Starblazing Giant Rebuild Plan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192124": {
+        "id": "192124",
+        "name": "Coffee Trailblazing Notes",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "\"Dawn of Disaster\"",
@@ -22277,7 +22706,7 @@
     },
     "210334": {
         "id": "210334",
-        "name": "Hope Is the Thing With Feathers",
+        "name": "\"Hope Is the Thing With Feathers\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22475,7 +22904,7 @@
     },
     "210356": {
         "id": "210356",
-        "name": "To Naraka We Sink",
+        "name": "\"To Naraka We Sink\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22484,7 +22913,7 @@
     },
     "210357": {
         "id": "210357",
-        "name": "Eight Great Cold Hells",
+        "name": "\"Eight Great Cold Hells\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22493,7 +22922,7 @@
     },
     "210358": {
         "id": "210358",
-        "name": "Moonhowl Stampede",
+        "name": "\"Moonhowl Stampede\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22502,7 +22931,7 @@
     },
     "210359": {
         "id": "210359",
-        "name": "Life's Suffering, An Endless Tide",
+        "name": "\"Life's Suffering, An Endless Tide\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22511,7 +22940,7 @@
     },
     "210360": {
         "id": "210360",
-        "name": "Cloudwide Voyage",
+        "name": "\"Cloudwide Voyage\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22520,7 +22949,7 @@
     },
     "210361": {
         "id": "210361",
-        "name": "With My Heartstring as Bow",
+        "name": "\"With My Heartstring as Bow\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22529,7 +22958,7 @@
     },
     "210362": {
         "id": "210362",
-        "name": "Welkin's Advent",
+        "name": "\"Welkin's Advent\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22538,7 +22967,7 @@
     },
     "210363": {
         "id": "210363",
-        "name": "A Duel of Connecting Blades",
+        "name": "\"A Duel of Connecting Blades\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22547,7 +22976,7 @@
     },
     "210364": {
         "id": "210364",
-        "name": "Fatal Clash of Swordgraves",
+        "name": "\"Fatal Clash of Swordgraves\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22556,7 +22985,7 @@
     },
     "210365": {
         "id": "210365",
-        "name": "Inner Beast Vanquished",
+        "name": "\"Inner Beast Vanquished\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22565,7 +22994,7 @@
     },
     "210366": {
         "id": "210366",
-        "name": "Color Your Dreams",
+        "name": "\"Color Your Dreams\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22574,7 +23003,7 @@
     },
     "210367": {
         "id": "210367",
-        "name": "Takeoff at Dusk",
+        "name": "\"Takeoff at Dusk\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22583,7 +23012,7 @@
     },
     "210368": {
         "id": "210368",
-        "name": "Melody of Dazzling Light",
+        "name": "\"Melody of Dazzling Light\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22592,7 +23021,7 @@
     },
     "210369": {
         "id": "210369",
-        "name": "Floating Tempo",
+        "name": "\"Floating Tempo\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22601,7 +23030,7 @@
     },
     "210370": {
         "id": "210370",
-        "name": "Dance in a Deep Dream",
+        "name": "\"Dance in a Deep Dream\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22610,7 +23039,7 @@
     },
     "210371": {
         "id": "210371",
-        "name": "Up to This",
+        "name": "\"Up to This\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22619,7 +23048,7 @@
     },
     "210372": {
         "id": "210372",
-        "name": "Under the Seat of Dawn",
+        "name": "\"Under the Seat of Dawn\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22628,7 +23057,7 @@
     },
     "210373": {
         "id": "210373",
-        "name": "Between Whims",
+        "name": "\"Between Whims\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22637,7 +23066,7 @@
     },
     "210374": {
         "id": "210374",
-        "name": "The Pastoral of the Lands",
+        "name": "\"The Pastoral of the Lands\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22646,7 +23075,7 @@
     },
     "210375": {
         "id": "210375",
-        "name": "Promenade of Tides",
+        "name": "\"Promenade of Tides\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22655,7 +23084,7 @@
     },
     "210376": {
         "id": "210376",
-        "name": "Plantlife Euthys",
+        "name": "\"Plantlife Euthys\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22664,7 +23093,7 @@
     },
     "210377": {
         "id": "210377",
-        "name": "Origin and Finale",
+        "name": "\"Origin and Finale\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22673,7 +23102,7 @@
     },
     "210378": {
         "id": "210378",
-        "name": "Beacon Smoke Residue",
+        "name": "\"Beacon Smoke Residue\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22682,7 +23111,7 @@
     },
     "210379": {
         "id": "210379",
-        "name": "To Gorgo",
+        "name": "\"To Gorgo\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22691,7 +23120,7 @@
     },
     "210380": {
         "id": "210380",
-        "name": "Undying Glory",
+        "name": "\"Undying Glory\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22700,7 +23129,7 @@
     },
     "210381": {
         "id": "210381",
-        "name": "Wheel of Fate",
+        "name": "\"Wheel of Fate\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22709,7 +23138,7 @@
     },
     "210382": {
         "id": "210382",
-        "name": "King Father of All",
+        "name": "\"King Father of All\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22718,7 +23147,7 @@
     },
     "210383": {
         "id": "210383",
-        "name": "To All Things Strifeful",
+        "name": "\"To All Things Strifeful\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22727,7 +23156,7 @@
     },
     "210384": {
         "id": "210384",
-        "name": "Grapevine and Mountain Goat",
+        "name": "\"Grapevine and Mountain Goat\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22736,7 +23165,7 @@
     },
     "210385": {
         "id": "210385",
-        "name": "Trampled Snake",
+        "name": "\"Trampled Snake\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22745,7 +23174,7 @@
     },
     "210386": {
         "id": "210386",
-        "name": "Living Flame",
+        "name": "\"Living Flame\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22754,7 +23183,7 @@
     },
     "210387": {
         "id": "210387",
-        "name": "Theomakhia",
+        "name": "\"Theomakhia\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22763,7 +23192,7 @@
     },
     "210388": {
         "id": "210388",
-        "name": "Strumming Time",
+        "name": "\"Strumming Time\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22772,7 +23201,7 @@
     },
     "210389": {
         "id": "210389",
-        "name": "Shattered Mortal Realms",
+        "name": "\"Shattered Mortal Realms\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22781,7 +23210,7 @@
     },
     "210390": {
         "id": "210390",
-        "name": "Scattered Manuscripts",
+        "name": "\"Scattered Manuscripts\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22790,7 +23219,7 @@
     },
     "210391": {
         "id": "210391",
-        "name": "Dusk of Rationality",
+        "name": "\"Dusk of Rationality\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22799,7 +23228,7 @@
     },
     "210392": {
         "id": "210392",
-        "name": "A Hunt for the Divine",
+        "name": "\"A Hunt for the Divine\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22808,7 +23237,7 @@
     },
     "210393": {
         "id": "210393",
-        "name": "Hymn of Dawn",
+        "name": "\"Hymn of Dawn\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22817,7 +23246,7 @@
     },
     "210394": {
         "id": "210394",
-        "name": "Lament on Stream of Souls",
+        "name": "\"Lament on Stream of Souls\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22826,7 +23255,7 @@
     },
     "210395": {
         "id": "210395",
-        "name": "Elegy of Netherwing",
+        "name": "\"Elegy of Netherwing\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22835,7 +23264,7 @@
     },
     "210396": {
         "id": "210396",
-        "name": "Holy City's Twilight",
+        "name": "\"Holy City's Twilight\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22844,7 +23273,7 @@
     },
     "210397": {
         "id": "210397",
-        "name": "Lightless Dawncloud",
+        "name": "\"Lightless Dawncloud\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22853,7 +23282,7 @@
     },
     "210398": {
         "id": "210398",
-        "name": "Sunslayer",
+        "name": "\"Sunslayer\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22862,7 +23291,7 @@
     },
     "210399": {
         "id": "210399",
-        "name": "Solar Flare of Broken Wings",
+        "name": "\"Solar Flare of Broken Wings\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22871,7 +23300,7 @@
     },
     "210400": {
         "id": "210400",
-        "name": "Afterglow in Dust",
+        "name": "\"Afterglow in Dust\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22880,7 +23309,7 @@
     },
     "210401": {
         "id": "210401",
-        "name": "Proi Proi",
+        "name": "\"Proi Proi\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22889,7 +23318,7 @@
     },
     "210402": {
         "id": "210402",
-        "name": "Narration of Clouds and Snow",
+        "name": "\"Narration of Clouds and Snow\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22898,7 +23327,7 @@
     },
     "210403": {
         "id": "210403",
-        "name": "Daythunder Rhapsody",
+        "name": "\"Daythunder Rhapsody\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22907,7 +23336,7 @@
     },
     "210404": {
         "id": "210404",
-        "name": "Homeland",
+        "name": "\"Homeland\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22916,7 +23345,7 @@
     },
     "210405": {
         "id": "210405",
-        "name": "Maze",
+        "name": "\"Maze\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22925,7 +23354,7 @@
     },
     "210406": {
         "id": "210406",
-        "name": "When The Wind Was Warm",
+        "name": "\"When The Wind Was Warm\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22934,7 +23363,7 @@
     },
     "210407": {
         "id": "210407",
-        "name": "Beneath the Bubbles",
+        "name": "\"Beneath the Bubbles\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22943,7 +23372,7 @@
     },
     "210408": {
         "id": "210408",
-        "name": "Frozen Tides",
+        "name": "\"Frozen Tides\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22952,7 +23381,7 @@
     },
     "210409": {
         "id": "210409",
-        "name": "Mythical Axiom",
+        "name": "\"Mythical Axiom\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22961,7 +23390,7 @@
     },
     "210410": {
         "id": "210410",
-        "name": "NAME == Mythos",
+        "name": "\"NAME == Mythos\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22970,7 +23399,7 @@
     },
     "210411": {
         "id": "210411",
-        "name": "NAME == Logos",
+        "name": "\"NAME == Logos\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22979,7 +23408,7 @@
     },
     "210412": {
         "id": "210412",
-        "name": "Sacred Grove",
+        "name": "\"Sacred Grove\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22988,7 +23417,7 @@
     },
     "210413": {
         "id": "210413",
-        "name": "Matrix",
+        "name": "\"Matrix\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -22997,7 +23426,7 @@
     },
     "210414": {
         "id": "210414",
-        "name": "Unholy Blood",
+        "name": "\"Unholy Blood\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23006,7 +23435,7 @@
     },
     "210415": {
         "id": "210415",
-        "name": "Stalled Flight",
+        "name": "\"Stalled Flight\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23015,7 +23444,7 @@
     },
     "210416": {
         "id": "210416",
-        "name": "The End of Gods",
+        "name": "\"The End of Gods\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23024,7 +23453,7 @@
     },
     "210417": {
         "id": "210417",
-        "name": "Mirage",
+        "name": "\"Mirage\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23033,7 +23462,7 @@
     },
     "210418": {
         "id": "210418",
-        "name": "Tomb of Blades",
+        "name": "\"Tomb of Blades\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23042,7 +23471,7 @@
     },
     "210419": {
         "id": "210419",
-        "name": "An Eternal Page",
+        "name": "\"An Eternal Page\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23051,7 +23480,7 @@
     },
     "210420": {
         "id": "210420",
-        "name": "Immolation of the Heavens",
+        "name": "\"Immolation of the Heavens\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23060,7 +23489,7 @@
     },
     "210421": {
         "id": "210421",
-        "name": "Agony Converging into River",
+        "name": "\"Agony Converging into River\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23069,7 +23498,7 @@
     },
     "210422": {
         "id": "210422",
-        "name": "Shatter the God's Crown",
+        "name": "\"Shatter the God's Crown\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23078,7 +23507,7 @@
     },
     "210423": {
         "id": "210423",
-        "name": "Virus",
+        "name": "\"Virus\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23087,7 +23516,7 @@
     },
     "210424": {
         "id": "210424",
-        "name": "Corridor of Memorial Dreams",
+        "name": "\"Corridor of Memorial Dreams\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23096,7 +23525,7 @@
     },
     "210425": {
         "id": "210425",
-        "name": "Theophany",
+        "name": "\"Theophany\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23105,7 +23534,7 @@
     },
     "210426": {
         "id": "210426",
-        "name": "Dream of Gnawing",
+        "name": "\"Dream of Gnawing\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23114,7 +23543,7 @@
     },
     "210427": {
         "id": "210427",
-        "name": "Nightmarish Omen",
+        "name": "\"Nightmarish Omen\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23123,7 +23552,7 @@
     },
     "210428": {
         "id": "210428",
-        "name": "Morning, Planarcadia!",
+        "name": "\"Morning, Planarcadia!\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23132,7 +23561,7 @@
     },
     "210429": {
         "id": "210429",
-        "name": "Shopping Channel",
+        "name": "\"Shopping Channel\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23141,7 +23570,7 @@
     },
     "210430": {
         "id": "210430",
-        "name": "Daylight Diner",
+        "name": "\"Daylight Diner\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23150,7 +23579,7 @@
     },
     "210431": {
         "id": "210431",
-        "name": "Reasons to Live Here",
+        "name": "\"Reasons to Live Here\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23159,7 +23588,7 @@
     },
     "210432": {
         "id": "210432",
-        "name": "Where We Part Ways",
+        "name": "\"Where We Part Ways\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23168,7 +23597,7 @@
     },
     "210433": {
         "id": "210433",
-        "name": "Seeds of Artistry",
+        "name": "\"Seeds of Artistry\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23177,7 +23606,7 @@
     },
     "210434": {
         "id": "210434",
-        "name": "Pen-Point Fantasy",
+        "name": "\"Pen-Point Fantasy\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23186,7 +23615,7 @@
     },
     "210435": {
         "id": "210435",
-        "name": "Faded Memories",
+        "name": "\"Faded Memories\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23195,7 +23624,7 @@
     },
     "210436": {
         "id": "210436",
-        "name": "Dust and Secrets",
+        "name": "\"Dust and Secrets\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23204,7 +23633,7 @@
     },
     "210437": {
         "id": "210437",
-        "name": "World's End Tavern",
+        "name": "\"World's End Tavern\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23213,7 +23642,7 @@
     },
     "210438": {
         "id": "210438",
-        "name": "Paramount Bliss",
+        "name": "\"Paramount Bliss\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23222,7 +23651,7 @@
     },
     "210439": {
         "id": "210439",
-        "name": "Savor the Moment",
+        "name": "\"Savor the Moment\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23231,7 +23660,7 @@
     },
     "210440": {
         "id": "210440",
-        "name": "Rare Treasure",
+        "name": "\"Rare Treasure\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23240,7 +23669,7 @@
     },
     "210441": {
         "id": "210441",
-        "name": "Bone Marrow",
+        "name": "\"Bone Marrow\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23249,7 +23678,7 @@
     },
     "210442": {
         "id": "210442",
-        "name": "Dark Alley",
+        "name": "\"Dark Alley\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23258,7 +23687,7 @@
     },
     "210443": {
         "id": "210443",
-        "name": "The Dark Side of Light",
+        "name": "\"The Dark Side of Light\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23267,7 +23696,7 @@
     },
     "210444": {
         "id": "210444",
-        "name": "Dance Under the Moonlight",
+        "name": "\"Dance Under the Moonlight\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23276,7 +23705,7 @@
     },
     "210445": {
         "id": "210445",
-        "name": "Game Time!",
+        "name": "\"Game Time!\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23285,7 +23714,7 @@
     },
     "210446": {
         "id": "210446",
-        "name": "Up-Up-Down-Down-Left-Left-Right-Right",
+        "name": "\"Up-Up-Down-Down-Left-Left-Right-Right\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23294,7 +23723,7 @@
     },
     "210447": {
         "id": "210447",
-        "name": "Soaring Beyond the Skyline",
+        "name": "\"Soaring Beyond the Skyline\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23303,7 +23732,7 @@
     },
     "210448": {
         "id": "210448",
-        "name": "Most Wanted",
+        "name": "\"Most Wanted\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23312,7 +23741,7 @@
     },
     "210449": {
         "id": "210449",
-        "name": "Perfect Idol",
+        "name": "\"Perfect Idol\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23321,7 +23750,7 @@
     },
     "210450": {
         "id": "210450",
-        "name": "Comedy Symphony",
+        "name": "\"Comedy Symphony\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23330,7 +23759,7 @@
     },
     "210451": {
         "id": "210451",
-        "name": "Happy Destination",
+        "name": "\"Happy Destination\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23339,7 +23768,7 @@
     },
     "210452": {
         "id": "210452",
-        "name": "Auspicious Snow",
+        "name": "\"Auspicious Snow\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23348,7 +23777,7 @@
     },
     "210453": {
         "id": "210453",
-        "name": "A Grand Promise",
+        "name": "\"A Grand Promise\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23357,7 +23786,7 @@
     },
     "210454": {
         "id": "210454",
-        "name": "Cosmic Cruise",
+        "name": "\"Cosmic Cruise\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23366,7 +23795,7 @@
     },
     "210455": {
         "id": "210455",
-        "name": "Dragon in the Frozen Deep",
+        "name": "\"Dragon in the Frozen Deep\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23375,7 +23804,7 @@
     },
     "210456": {
         "id": "210456",
-        "name": "A Duel of Justice",
+        "name": "\"A Duel of Justice\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23384,7 +23813,7 @@
     },
     "210457": {
         "id": "210457",
-        "name": "Land of the Forgotten",
+        "name": "\"Land of the Forgotten\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23393,7 +23822,7 @@
     },
     "210458": {
         "id": "210458",
-        "name": "Steel and Resolve",
+        "name": "\"Steel and Resolve\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23402,7 +23831,7 @@
     },
     "210459": {
         "id": "210459",
-        "name": "Heroes, Assemble",
+        "name": "\"Heroes, Assemble\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23411,7 +23840,7 @@
     },
     "210460": {
         "id": "210460",
-        "name": "Hidden Pearl",
+        "name": "\"Hidden Pearl\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23420,7 +23849,7 @@
     },
     "210461": {
         "id": "210461",
-        "name": "Listen! The Engines Roar!",
+        "name": "\"Listen! The Engines Roar!\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23429,7 +23858,7 @@
     },
     "210462": {
         "id": "210462",
-        "name": "Hollow Waves",
+        "name": "\"Hollow Waves\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23438,7 +23867,7 @@
     },
     "210463": {
         "id": "210463",
-        "name": "Amusing Ourselves to Death",
+        "name": "\"Amusing Ourselves to Death\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23447,7 +23876,7 @@
     },
     "210464": {
         "id": "210464",
-        "name": "The Age of Mass Media",
+        "name": "\"The Age of Mass Media\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23456,7 +23885,7 @@
     },
     "210465": {
         "id": "210465",
-        "name": "Condescending",
+        "name": "\"Condescending\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23465,7 +23894,7 @@
     },
     "210466": {
         "id": "210466",
-        "name": "Seaside Town",
+        "name": "\"Seaside Town\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23474,7 +23903,7 @@
     },
     "210467": {
         "id": "210467",
-        "name": "Floating",
+        "name": "\"Floating\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23483,7 +23912,7 @@
     },
     "210468": {
         "id": "210468",
-        "name": "Unbridled Growth",
+        "name": "\"Unbridled Growth\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23492,7 +23921,7 @@
     },
     "210469": {
         "id": "210469",
-        "name": "Death and Rebirth",
+        "name": "\"Death and Rebirth\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23501,7 +23930,7 @@
     },
     "210470": {
         "id": "210470",
-        "name": "The Hermitage",
+        "name": "\"The Hermitage\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23510,7 +23939,7 @@
     },
     "210471": {
         "id": "210471",
-        "name": "Blank Space",
+        "name": "\"Blank Space\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23519,7 +23948,7 @@
     },
     "210472": {
         "id": "210472",
-        "name": "Born Here, Raised Here",
+        "name": "\"Born Here, Raised Here\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23528,7 +23957,7 @@
     },
     "210473": {
         "id": "210473",
-        "name": "Hometown in the Hearth",
+        "name": "\"Hometown in the Hearth\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23537,7 +23966,7 @@
     },
     "210474": {
         "id": "210474",
-        "name": "Bone Deep",
+        "name": "\"Bone Deep\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23546,7 +23975,7 @@
     },
     "210475": {
         "id": "210475",
-        "name": "Snow and Blood",
+        "name": "\"Snow and Blood\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23555,7 +23984,178 @@
     },
     "210476": {
         "id": "210476",
-        "name": "The Founding Artist",
+        "name": "\"The Founding Artist\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210477": {
+        "id": "210477",
+        "name": "\"Hanging in the Beast's Maw\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210478": {
+        "id": "210478",
+        "name": "\"A Moment's Respite\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210479": {
+        "id": "210479",
+        "name": "\"An Afternoon of Golden Ratio\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210480": {
+        "id": "210480",
+        "name": "\"Uncharted Blueprint\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210481": {
+        "id": "210481",
+        "name": "\"Weathered Old Dreams\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210482": {
+        "id": "210482",
+        "name": "\"Gazing into the Deep Blue\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210483": {
+        "id": "210483",
+        "name": "\"Fallen Star's Cradle\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210484": {
+        "id": "210484",
+        "name": "\"Imaginary Ruins\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210485": {
+        "id": "210485",
+        "name": "\"Climb the Thunders\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210486": {
+        "id": "210486",
+        "name": "\"Saṃvartasthāyi\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210487": {
+        "id": "210487",
+        "name": "\"Return to Silence\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210488": {
+        "id": "210488",
+        "name": "\"Beyond This Station\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210489": {
+        "id": "210489",
+        "name": "\"Soothing Waves\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210490": {
+        "id": "210490",
+        "name": "\"Dancing Fingertips\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210491": {
+        "id": "210491",
+        "name": "\"Overclock Rhythm\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210493": {
+        "id": "210493",
+        "name": "\"Halfhearted Blow\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210494": {
+        "id": "210494",
+        "name": "\"Demonhold's Revelry\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210495": {
+        "id": "210495",
+        "name": "\"Maximum Firepower\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210496": {
+        "id": "210496",
+        "name": "\"Tutorial\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23564,7 +24164,7 @@
     },
     "215001": {
         "id": "215001",
-        "name": "Pitter-Patter",
+        "name": "\"Pitter-Patter\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23573,7 +24173,7 @@
     },
     "215002": {
         "id": "215002",
-        "name": "Bellow",
+        "name": "\"Bellow\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23582,7 +24182,7 @@
     },
     "215003": {
         "id": "215003",
-        "name": "Howl",
+        "name": "\"Howl\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23591,7 +24191,7 @@
     },
     "215004": {
         "id": "215004",
-        "name": "Murmur",
+        "name": "\"Murmur\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23600,7 +24200,7 @@
     },
     "215008": {
         "id": "215008",
-        "name": "Arboreal Whispers",
+        "name": "\"Arboreal Whispers\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23609,7 +24209,7 @@
     },
     "215009": {
         "id": "215009",
-        "name": "Rustle",
+        "name": "\"Rustle\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23618,7 +24218,7 @@
     },
     "215010": {
         "id": "215010",
-        "name": "Tenebrous",
+        "name": "\"Tenebrous\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23627,7 +24227,7 @@
     },
     "215011": {
         "id": "215011",
-        "name": "Daybreak",
+        "name": "\"Daybreak\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23636,7 +24236,7 @@
     },
     "215012": {
         "id": "215012",
-        "name": "Baking",
+        "name": "\"Baking\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -26283,6 +26883,15 @@
         "icon": "icon/item/226004.png",
         "come_from": []
     },
+    "226005": {
+        "id": "226005",
+        "name": "Anomaly Arbitration: Castle",
+        "type": "Usable",
+        "sub_type": "HeadIconFrame",
+        "rarity": 5,
+        "icon": "icon/item/226003.png",
+        "come_from": []
+    },
     "227001": {
         "id": "227001",
         "name": "Deliverer's Wreath",
@@ -26390,6 +26999,15 @@
         "rarity": 5,
         "icon": "icon/item/227015.png",
         "come_from": []
+    },
+    "227016": {
+        "id": "227016",
+        "name": "Fan-Made Lygus",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227016.png",
+        "come_from": ["Available at the Gift of Stardust store"]
     },
     "229001": {
         "id": "229001",
@@ -28524,6 +29142,15 @@
         "icon": "icon/item/251004.png",
         "come_from": []
     },
+    "251005": {
+        "id": "251005",
+        "name": "Pentaflavor Emoti",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251005.png",
+        "come_from": ["Available at the Gift of Stardust store"]
+    },
     "252000": {
         "id": "252000",
         "name": "Solemn Scarlet! Conductor Outfit",
@@ -30233,6 +30860,15 @@
         "rarity": 5,
         "icon": "icon/item/253004.png",
         "come_from": ["Obtained from the Fashion Item store"]
+    },
+    "253005": {
+        "id": "253005",
+        "name": "Soar Beyond",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253005.png",
+        "come_from": ["Available at the Gift of Stardust store"]
     },
     "254000": {
         "id": "254000",
@@ -32559,6 +33195,15 @@
         "icon": "icon/item/300057.png",
         "come_from": []
     },
+    "300058": {
+        "id": "300058",
+        "name": "Letter Sent Across the Stars",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 4,
+        "icon": "icon/item/300058.png",
+        "come_from": []
+    },
     "300101": {
         "id": "300101",
         "name": "Express Supply Pass",
@@ -32737,6 +33382,15 @@
         "sub_type": "ForceOpitonalGift",
         "rarity": 5,
         "icon": "icon/item/309001.png",
+        "come_from": []
+    },
+    "309012": {
+        "id": "309012",
+        "name": "\"Fate Gift\" Giftbox",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309012.png",
         "come_from": []
     },
     "310001": {

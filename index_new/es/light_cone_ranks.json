@@ -4009,6 +4009,88 @@
             ]
         ]
     },
+    "23060": {
+        "id": "23060",
+        "skill": "Deseo inicial",
+        "desc": "El portador ignora un #7[i]% de la DEF del objetivo al infligirle daño. Cuando el portador lanza la habilidad de apoyo, recupera #2[i] pts. de energía y obtiene Partida, que dura 2 turnos y se puede acumular hasta #3[i] veces. Cada acumulación de Partida aumenta el daño de habilidad de apoyo en un #4[i]%. Cuando Partida alcanza #5[i] acumulaciones, cada acumulación aumenta el daño de habilidad definitiva en un #6[i]%.",
+        "params": [
+            [0, 6, 3, 0.2, 3, 0.2, 0.32],
+            [0, 6, 3, 0.25, 3, 0.25, 0.36],
+            [0, 6, 3, 0.3, 3, 0.3, 0.4],
+            [0, 6, 3, 0.35, 3, 0.35, 0.44],
+            [0, 6, 3, 0.4, 3, 0.4, 0.48]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "23061": {
+        "id": "23061",
+        "skill": "Brote",
+        "desc": "La Prob. CRIT del portador aumenta en un #1[i]%. Cuando cualquier personaje aliado consume un total de #3[i] pts. de habilidad básica o más en un mismo turno, el portador obtiene Corona brillante durante #4[i] turnos. Mientras el portador tiene Corona brillante, el daño que infligen todos los aliados ignora un #5[i]% de la DEF del objetivo, y el daño de habilidad básica que inflige el portador aumenta en un #2[i]%. Los efectos del mismo tipo no se pueden acumular.",
+        "params": [
+            [0.18, 0.72, 4, 3, 0.2],
+            [0.21, 0.84, 4, 3, 0.24],
+            [0.24, 0.96, 4, 3, 0.28],
+            [0.27, 1.08, 4, 3, 0.32],
+            [0.3, 1.2, 4, 3, 0.36]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.24 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.27 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23062": {
+        "id": "23062",
+        "skill": "A voluntad",
+        "desc": "El ATQ y la recuperación de energía del portador aumentan en un #1[i]% y un #2[f1]% respectivamente. Cuando el portador lanza su habilidad definitiva, el daño de habilidad definitiva que inflige esta vez aumenta en un #3[f2]% por cada punto de energía consumido, hasta un máximo del #6[i]%. Al entrar en combate o lanzar su habilidad definitiva, el portador obtiene Diversión del monarca durante #4[i] turnos. Mientras tiene Diversión del monarca, el Daño CRIT de todos los aliados aumenta en un #5[i]%. Los efectos del mismo tipo no se pueden acumular.",
+        "params": [
+            [0.18, 0.1, 0.002, 3, 0.24, 0.72],
+            [0.21, 0.125, 0.0025, 3, 0.3, 0.9],
+            [0.24, 0.15, 0.003, 3, 0.36, 1.08],
+            [0.27, 0.175, 0.0035, 3, 0.42, 1.26],
+            [0.3, 0.2, 0.004, 3, 0.48, 1.44]
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.18 },
+                { "type": "SPRatioBase", "value": 0.1 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.21 },
+                { "type": "SPRatioBase", "value": 0.125 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.24 },
+                { "type": "SPRatioBase", "value": 0.15 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.27 },
+                { "type": "SPRatioBase", "value": 0.175 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.3 },
+                { "type": "SPRatioBase", "value": 0.2 }
+            ]
+        ]
+    },
     "24000": {
         "id": "24000",
         "skill": "Polilla a la luz",

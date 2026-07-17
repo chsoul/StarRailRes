@@ -6722,6 +6722,231 @@
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
     },
+    "150801": {
+        "id": "150801",
+        "name": "Aprendiz de Zelretch",
+        "rank": 1,
+        "desc": "Si la cantidad de Energía de gema que consume un único lanzamiento de la habilidad básica potenciada es igual o superior a 30 pts., Rin Tohsaka obtiene una cantidad de Gemas de sombra igual a la cantidad de Energía de gema consumida.\nAl tener Gemas de sombra, la habilidad básica se potencia a Segundo experimento mágico. La habilidad básica potenciada consume todas las Gemas de sombra, no activa el efecto que convierte los pts. de habilidad básica en Energía de gema y no consume Energía de gema.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Viajera dimensional",
+        "rank": 2,
+        "desc": "El daño de habilidad básica que inflige Rin Tohsaka aumenta en un 30%. Cuando Rin Tohsaka está en el campo de batalla, el daño de habilidad básica que infligen todos los aliados es el 130% del daño original.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Guerra del Santo Grial: recuerdo de la victoria",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Demonio rojo: tres veces más rápido",
+        "rank": 4,
+        "desc": "Cuando el efecto de aumento de Daño CRIT del talento Magia de gemas se aplica a Rin Tohsaka, el efecto se puede acumular hasta un máximo de 2 veces.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Favor de la diosa de Venus",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "¡Esta vez no metí la pata!",
+        "rank": 6,
+        "desc": "La PEN de la RES a todos los tipos de Rin Tohsaka aumenta en un 20%. Al lanzar su habilidad definitiva, obtiene 24 pts. de Energía de gema y 1 turno adicional.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Aquel que lo vio todo",
+        "rank": 1,
+        "desc": "Cuando Gilgamesh tiene Reconocimiento del rey, el efecto de DEF ignorada de Reconocimiento del rey también se aplica a los demás compañeros de equipo. Además, Reconocimiento del rey aumenta adicionalmente el ATQ de Gilgamesh en un 60%. Recupera adicionalmente 40 pts. fijos de energía cuando lanza la habilidad básica.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Sabiduría que todo lo abarcó",
+        "rank": 2,
+        "desc": "Al entrar en combate, Gilgamesh obtiene 5 pts. de Entusiasmo y, al lanzar su habilidad definitiva, obtiene 5 pts. de Entusiasmo adicionales. El multiplicador del daño que la habilidad básica Tesoro del Rey inflige al objetivo principal y a los objetivos adyacentes aumenta en un 100% y un 50% respectivamente.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Travesía que recorrió gran distancia",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "Rey que se alzó supremo",
+        "rank": 4,
+        "desc": "La recuperación de energía de Gilgamesh aumenta en un 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Filo que despidió lo divino",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Alma que se forjó en amistad",
+        "rank": 6,
+        "desc": "El multiplicador de daño de Rebote de Enuma Elish aumenta en un 80%. Cuando Gilgamesh está en el campo de batalla, la PEN de la RES a todos los tipos de los personajes aliados aumenta en un 20%. Cuando un compañero de equipo lanza su habilidad definitiva, Gilgamesh obtiene 1 pt. de Regla de oro, hasta un máximo de 3 pts. Gasta todos sus puntos de Regla de oro al lanzar la habilidad definitiva. Por cada punto de Regla de oro consumido, el Daño CRIT del daño de habilidad definitiva que inflige aumenta en un 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Nuestro porvenir es trazar caminos",
+        "rank": 1,
+        "desc": "El lanzamiento adicional de la habilidad de apoyo del talento se puede activar 1 vez más. En el estado Protocolo de acompañante: Veredicto, los usos de la habilidad definitiva necesarios para lanzar la habilidad de apoyo se reducen en 1. En el estado Protocolo de acompañante: Aniquilación, la carga necesaria para lanzar la habilidad de apoyo se reduce en 3 puntos. Cuando Himeko Nova lanza la habilidad de apoyo, las veces que el efecto inflige daño extra aumentan en 1.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Estandarte, vela que nunca se arría",
+        "rank": 2,
+        "desc": "La habilidad de apoyo de Himeko Nova aumenta su límite de usos a 2 y el daño que infligen la habilidad definitiva y la habilidad de apoyo es un 130% del daño original. En el estado Señales de navegación, al comenzar cada turno se recupera inmediatamente 1 uso adicional de la habilidad de apoyo. Los personajes que no sean Camaradas trazacaminos también activan el efecto del Rastro Pulso atronador del Expreso y obtienen 1 turno adicional al usar la habilidad de apoyo.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Los hijos de las estrellas contemplamos el cosmos",
+        "rank": 3,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Toma cada mano que se alza hacia el cielo",
+        "rank": 4,
+        "desc": "Cuando el talento Emprendamos la expedición ardiente usa la habilidad de apoyo, el efecto de aumento de la PEN de la RES a todos los tipos se aplica a todos los aliados. Cuando Himeko Nova obtiene este efecto, su PEN de la RES a todos los tipos aumenta en un 10% adicional.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Y recorre los confines del universo",
+        "rank": 5,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Juro que llegaré a las estrellas",
+        "rank": 6,
+        "desc": "La PEN de la RES a Fuego de Himeko Nova aumenta en un 20%. El límite de Energía primordial aumenta a 6 pts. Cuando los aliados usan o lanzan la habilidad de apoyo, el daño que inflige la habilidad de apoyo aumenta en un 75% y Himeko Nova obtiene 1 pto. de Energía primordial. Cuando se lanza Rayo de partículas superaceleradas durante la habilidad definitiva, obtiene 1 pto. de Energía primordial adicional. Cuando se lanza Pulso de aniquilación orbital, si en ese momento hay 6 o más pts. de Energía primordial, inflige 1 vez a todos los enemigos un Daño de Fuego equivalente al 160% del ATQ de Himeko Nova.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Estrellas dispersas",

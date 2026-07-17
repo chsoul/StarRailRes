@@ -6722,6 +6722,231 @@
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
     },
+    "150801": {
+        "id": "150801",
+        "name": "Học Trò Của Zelretch",
+        "rank": 1,
+        "desc": "Nếu số lượng \"Năng Lượng Bảo Thạch\" tiêu hao trong một lần Chiến Kỹ Cường Hóa lớn hơn hoặc bằng 30 điểm, Rin Tohsaka nhận được \"Bảo Thạch Bóng Tối\" có số lượng bằng với \"Năng Lượng Bảo Thạch\" đã tiêu hao.\nKhi sở hữu \"Bảo Thạch Bóng Tối\", Chiến Kỹ cường hóa thành \"Thí Nghiệm Đệ Nhị Ma Pháp\", Chiến Kỹ Cường Hóa sẽ tiêu hao toàn bộ \"Bảo Thạch Bóng Tối\", không kích hoạt hiệu ứng chuyển hóa Điểm Chiến Kỹ thành \"Năng Lượng Bảo Thạch\" và không tiêu hao \"Năng Lượng Bảo Thạch\".",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Nhà Du Hành Vị Diện",
+        "rank": 2,
+        "desc": "Sát thương Chiến Kỹ do Rin Tohsaka gây ra tăng 30%. Khi Rin Tohsaka trong trận, sát thương Chiến Kỹ do toàn bộ phe ta gây ra bằng 130% sát thương gốc.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Cuộc Chiến Chén Thánh: Kỷ Niệm Chiến Thắng",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Ác Quỷ Màu Đỏ - Tốc Độ Gấp 3 Lần",
+        "rank": 4,
+        "desc": "Khi hiệu ứng Tăng Sát Thương Bạo Kích của Thiên Phú \"Ma Thuật Bảo Thạch\" có hiệu lực với Rin Tohsaka, hiệu ứng có thể cộng dồn, tối đa cộng dồn 2 tầng.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Sự Ưu Ái Của Thần Sao Kim",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Lần Này Không Sơ Suất Nữa!",
+        "rank": 6,
+        "desc": "Xuyên Kháng Toàn Thuộc Tính của Rin Tohsaka tăng 20%. Khi thi triển Tuyệt Kỹ, nhận 24 điểm \"Năng Lượng Bảo Thạch\" và 1 hiệp tăng thêm.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Người Chứng Kiến Tất Cả",
+        "rank": 1,
+        "desc": "Khi Gilgamesh sở hữu \"Vua Đến Để Công Nhận\", hiệu ứng bỏ qua Phòng Thủ của \"Vua Đến Để Công Nhận\" cũng có hiệu lực với đồng đội khác, đồng thời \"Vua Đến Để Công Nhận\" khiến Tấn Công của Gilgamesh tăng thêm 60%. Khi thi triển Chiến Kỹ sẽ cố định hồi thêm 40 Năng Lượng.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Trí Tuệ Thấu Hiểu Vạn Vật",
+        "rank": 2,
+        "desc": "Khi Gilgamesh vào chiến đấu nhận 5 điểm \"Hứng Thú\", khi thi triển Tuyệt Kỹ nhận thêm 5 điểm \"Hứng Thú\". Bội Số Sát Thương do Chiến Kỹ \"Kho Báu Đế Vương\" gây ra cho mục tiêu chính tăng 100%, Bội Số Sát Thương gây ra cho mục tiêu lân cận tăng 50%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Hành Trình Vượt Ngàn Dặm",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "Vị Vua Duy Ngã Độc Tôn",
+        "rank": 4,
+        "desc": "Hiệu Suất Hồi Năng Lượng của Gilgamesh tăng 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Nhân Thần Quyết Biệt Kiếm",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Linh Hồn Rèn Giũa Từ Tình Bằng Hữu",
+        "rank": 6,
+        "desc": "Bội Số Sát Thương Nảy Bật của Tuyệt Kỹ \"Enuma Elish\" tăng 80%. Khi Gilgamesh trên sân, khiến Xuyên Kháng Toàn Thuộc Tính của nhân vật phe ta tăng 20%. Khi đồng đội thi triển Tuyệt Kỹ, Gilgamesh nhận 1 điểm \"Quy Luật Vàng\", cộng dồn tối đa 3 điểm. Khi bản thân thi triển Tuyệt Kỹ sẽ tiêu hao toàn bộ \"Quy Luật Vàng\", mỗi khi tiêu hao 1 điểm \"Quy Luật Vàng\" khiến Sát Thương Bạo Kích của Sát Thương Tuyệt Kỹ gây ra tăng 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Thứ Chúng Ta Gọi Là Con Đường, Chính Là Khai Phá",
+        "rank": 1,
+        "desc": "Số lần Thiên Phú phát động thêm hiệu ứng Kỹ Năng Trợ Chiến tăng thêm 1 lần. Trong trạng thái \"Giao Ước Đồng Hành: Phán Quyết\", số lần thi triển Tuyệt Kỹ cần để phát động Kỹ Năng Trợ Chiến giảm 1 lần. Trong trạng thái \"Giao Ước Đồng Hành: Diệt Phá\", Nạp Năng Lượng cần để phát động Kỹ Năng Trợ Chiến giảm 3 điểm. Khi Himeko - Nova phát động Kỹ Năng Trợ Chiến, số lần hiệu ứng gây thêm sát thương tăng 1 lần.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Ngọn Cờ, Cánh Buồm Không Bao Giờ Hạ Xuống",
+        "rank": 2,
+        "desc": "Giới hạn sử dụng Kỹ Năng Trợ Chiến của Himeko - Nova tăng đến 2 lần, sát thương do Tuyệt Kỹ và Kỹ Năng Trợ Chiến gây ra bằng 130% sát thương gốc. Trong trạng thái \"Cờ Hiệu Dẫn Đường\", khi bắt đầu mỗi hiệp, lập tức hồi phục thêm 1 lần sử dụng Kỹ Năng Trợ Chiến. Hiệu ứng Vết Tích \"Nhịp Đập Của Đội Tàu Đang Rền Vang\" khi nhân vật không phải Đồng Hành Khai Phá sử dụng Kỹ Năng Trợ Chiến, cũng sẽ nhận 1 hiệp tăng thêm.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Đứa Con Của Tinh Tú, Cũng Đang Suy Tư Về Muôn Vì Sao",
+        "rank": 3,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Nắm Lấy Tất Cả Những Bàn Tay Vươn Tới Bầu Trời",
+        "rank": 4,
+        "desc": "Khi sử dụng Kỹ Năng Trợ Chiến của Thiên Phú \"Cùng Bước Vào Cuộc Viễn Chinh Rực Cháy\", hiệu ứng tăng Xuyên Kháng Toàn Thuộc Tính sẽ có hiệu lực với toàn bộ phe ta, khi Himeko - Nova nhận được hiệu ứng này, Xuyên Kháng Toàn Thuộc Tính tăng thêm 10%.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Băng Qua Toàn Cõi Vũ Trụ",
+        "rank": 5,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Khắc Ghi, Lời Thề Vươn Tới Những Vì Sao",
+        "rank": 6,
+        "desc": "Xuyên Kháng Hỏa của Himeko - Nova tăng 20%. Giới hạn của \"Nguyên Năng\" tăng đến 6 điểm, khi phe ta sử dụng hoặc phát động Kỹ Năng Trợ Chiến, sát thương do Kỹ Năng Trợ Chiến gây ra tăng 75%, Himeko - Nova nhận 1 điểm \"Nguyên Năng\". Trong thời gian Tuyệt Kỹ, khi phát động \"Chùm Tia Hạt Siêu Tần\" tấn công, nhận thêm 1 điểm \"Nguyên Năng\". Khi phát động \"Xung Mạch Hủy Diệt Quỹ Đạo\", nếu \"Nguyên Năng\" hiện tại lớn hơn hoặc bằng 6 điểm, sẽ gây thêm cho toàn phe địch 1 lần Sát Thương Hỏa bằng 160% Tấn Công của Himeko - Nova.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "Ánh Sao Soi Chiếu Vạn Giới",

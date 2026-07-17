@@ -933,6 +933,21 @@
         "name": "Saltillo",
         "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
     },
+    "222": {
+        "id": "222",
+        "name": "Planarvilla en línea",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "223": {
+        "id": "223",
+        "name": "Ryusuke",
+        "icon": "icon/avatar/UI_Message_Contacts_LongJie.png"
+    },
+    "232": {
+        "id": "232",
+        "name": "¿?",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
     "1000": {
         "id": "1000",
         "name": "Pom-Pom",
@@ -1016,9 +1031,16 @@
     "1415": { "id": "1415", "name": "Cirene", "icon": "icon/avatar/1415.png" },
     "1501": { "id": "1501", "name": "Chispa", "icon": "icon/avatar/1501.png" },
     "1502": { "id": "1502", "name": "Yao Guang", "icon": "icon/avatar/1502.png" },
+    "1503": {
+        "id": "1503",
+        "name": "Perla",
+        "icon": "icon/avatar/UI_Message_Contacts_Pearl.png"
+    },
     "1504": { "id": "1504", "name": "Ashveil", "icon": "icon/avatar/1504.png" },
     "1505": { "id": "1505", "name": "Evanescia", "icon": "icon/avatar/1505.png" },
     "1506": { "id": "1506", "name": "Silver Wolf Niv. 999", "icon": "icon/avatar/1506.png" },
+    "1508": { "id": "1508", "name": "", "icon": "icon/avatar/1508.png" },
+    "1509": { "id": "1509", "name": "", "icon": "icon/avatar/1509.png" },
     "200001": {
         "id": "200001",
         "name": "-",
@@ -1373,6 +1395,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200158.png"
     },
+    "200159": {
+        "id": "200159",
+        "name": "Himeko Nova: Aroma literario",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200159.png"
+    },
+    "200160": {
+        "id": "200160",
+        "name": "Dan Heng - Imbibitor Lunae: Aroma literario",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200160.png"
+    },
     "201001": {
         "id": "201001",
         "name": "Siete de Marzo (Conservación)",
@@ -1471,6 +1505,9 @@
     "201505": { "id": "201505", "name": "Evanescia", "icon": "icon/avatar/1505.png" },
     "201506": { "id": "201506", "name": "Silver Wolf Niv. 999", "icon": "icon/avatar/1506.png" },
     "201507": { "id": "201507", "name": "Mortenax Blade", "icon": "icon/avatar/1507.png" },
+    "201508": { "id": "201508", "name": "Rin Tohsaka", "icon": "icon/avatar/1508.png" },
+    "201509": { "id": "201509", "name": "Gilgamesh", "icon": "icon/avatar/1509.png" },
+    "201510": { "id": "201510", "name": "Himeko Nova", "icon": "icon/avatar/1510.png" },
     "202001": {
         "id": "202001",
         "name": "Buabuabó",
@@ -1753,11 +1790,29 @@
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202051.png"
     },
+    "202053": {
+        "id": "202053",
+        "name": "¡Muchas gracias, miau!",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202053.png"
+    },
+    "202054": {
+        "id": "202054",
+        "name": "Dirección de la voluntad",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202054.png"
+    },
     "202060": {
         "id": "202060",
         "name": "Castorice: Banquete",
         "rarity": 5,
         "icon": "icon/avatar/IconHead_202060.png"
+    },
+    "202061": {
+        "id": "202061",
+        "name": "Chispa: A la última",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_202061.png"
     },
     "208001": {
         "id": "208001",

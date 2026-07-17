@@ -6652,7 +6652,7 @@
         "id": "150701",
         "name": "Antes da Minha Morte, Eu Era Incompleto",
         "rank": 1,
-        "desc": "Enquanto o Campo está ativo, reduz a RES Todos os Tipos de todos os inimigos em 20%. Após usar a Perícia extra do Talento, a contagem regressiva de \"Fúria Infinita\" tem sua ação atrasada em 15%.",
+        "desc": "Enquanto o Campo está ativo, reduz a RES a Todos os Tipos de todos os inimigos em 20%. Após usar a Perícia extra do Talento, a contagem regressiva de \"Fúria Infinita\" tem sua ação atrasada em 15%.",
         "materials": [
             { "id": "11507", "num": 1 }
         ],
@@ -6715,12 +6715,237 @@
         "id": "150706",
         "name": "Se a Imortalidade Pudesse Morrer, Eu Tomaria SUA Vida",
         "rank": 6,
-        "desc": "Enquanto o Campo persistir, quando Mortenax Blade recebe Dano ou consome PV, ele ganha 1 Carga. Esse efeito pode ativar novamente após o término da rodada de qualquer alvo. O multiplicador de Dano de \"Tenax Per Ignem\" aumenta para 150% do valor original.",
+        "desc": "Enquanto o Campo persistir, quando Mortenax Blade recebe Dano ou consome PV, ele ganha 1 Carga. Esse efeito pode ser ativado novamente após o término da rodada de qualquer alvo. O multiplicador de Dano de \"Tenax Per Ignem\" aumenta para 150% do valor original.",
         "materials": [
             { "id": "11507", "num": 1 }
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Aprendiz de Zelretch",
+        "rank": 1,
+        "desc": "Se uma instância da Perícia Aprimorada consumir 30 ou mais \"Energia de Gema\", Rin Tohsaka ganha \"Gema das Sombras\" igual à quantidade de \"Energia de Gema\" consumida.\nEnquanto possuir \"Gema das Sombras\", a Perícia é aprimorada para \"Experimento de Segunda Magia\". Essa Perícia Aprimorada consome toda a \"Gema das Sombras\", não ativa o efeito de conversão de Pontos de Perícia em \"Energia de Gema\" e não consome \"Energia de Gema\".",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Viajante Dimensional",
+        "rank": 2,
+        "desc": "O Dano de Perícia causado por Rin Tohsaka aumenta em 30%. Enquanto Rin Tohsaka estiver em campo, o Dano de Perícia causado por todos os aliados se torna 130% do Dano original.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Guerra do Santo Graal: Memorial da Vitória",
+        "rank": 3,
+        "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Demônio Vermelho: Velocidade Tripla",
+        "rank": 4,
+        "desc": "Quando o efeito de bônus de Dano CRIT do Talento \"Taumaturgia de Gema\" é aplicado em Rin Tohsaka, o efeito pode acumular até 2 vez(es).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Deusa do Favor de Vênus",
+        "rank": 5,
+        "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Dessa Vez Eu Arrasei!",
+        "rank": 6,
+        "desc": "A PEN de RES a Todos os Tipos de Rin Tohsaka aumenta em 20%. Ao usar a Perícia Suprema, ganha 24 ponto(s) de \"Energia de Gema\" e 1 rodada extra.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Aquele Que Testemunhou as Profundezas",
+        "rank": 1,
+        "desc": "Quando Gilgamesh está com o \"Reconhecimento do Rei\", o efeito de ignorar DEF também se aplica aos outros aliados, e o \"Reconhecimento do Rei\" aumenta adicionalmente o ATQ de Gilgamesh em 60%. Ao usar a Perícia, regenera adicionalmente 40 de Energia fixa.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "A Sabedoria Que Tudo Abarcou",
+        "rank": 2,
+        "desc": "Ao entrar em combate, Gilgamesh ganha 5 \"Interesse\". Ao usar a Perícia Suprema, ganha adicionalmente 5 \"Interesse\". O multiplicador de Dano da Perícia \"Portão da Babilônia\" contra o alvo principal aumenta em 100%, e o multiplicador de Dano contra alvos adjacentes aumenta em 50%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "A Jornada Que Percorreu Longas Distâncias",
+        "rank": 3,
+        "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "O Rei Que Não Se Curvou a Ninguém",
+        "rank": 4,
+        "desc": "Aumenta a Taxa de Regeneração de Energia de Gilgamesh em 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "A Espada Que Separou Deuses de Homens",
+        "rank": 5,
+        "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "A Alma que Carregou a Amizade",
+        "rank": 6,
+        "desc": "Aumenta o multiplicador de Dano de ricochete da Perícia Suprema \"Enuma Elish\" em 80%. Enquanto Gilgamesh estiver em campo, aumenta a PEN de RES a Todos os Tipos dos personagens aliados em 20%. Quando um companheiro de equipe usar sua Perícia Suprema, Gilgamesh ganha 1 ponto de \"Regra de Ouro\", até um total de 3 pontos. Quando esta unidade usar sua Perícia Suprema, ela consome todos os pontos de \"Regra de Ouro\" e cada ponto de \"Regra de Ouro\" consumido aumenta o Dano CRIT do Dano causado pela Perícia Suprema em 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Aquilo que Trilhamos é o Desbravamento",
+        "rank": 1,
+        "desc": "O número de usos extras da Perícia de Assistência concedidos pelo Talento aumenta em 1. Enquanto estiver no estado de \"Protocolo de Companhia: Veredito\", o número de usos da Perícia Suprema necessários para utilizar a Perícia de Assistência é reduzido em 1. Enquanto estiver no estado de \"Protocolo de Companhia: Dizimação\", a Carga necessária para utilizar a Perícia de Assistência é reduzida em 3. Quando Himeko - Nova utiliza a Perícia de Assistência, o número de instâncias de Dano adicionais aumenta em 1.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "A Bandeira, A Vela que Jamais se Recolhe",
+        "rank": 2,
+        "desc": "O limite de usos da Perícia de Assistência de Himeko - Nova aumenta para 2, e o Dano causado pela Perícia Suprema e pela Perícia de Assistência passa a ser 130% do Dano original. Durante o estado \"Semáforo da Navegadora\", no início de cada rodada, recupera imediatamente 1 uso adicional da Perícia de Assistência. Quando um personagem que não seja um Companheiro de Desbravamento usa a Perícia de Assistência, o Rastro \"Escutem! O Pulsar do Expresso Ruge\" também concede a ele 1 rodada extra.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Nós, Nascidos das Estrelas, Contemplamos os Astros",
+        "rank": 3,
+        "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Que Nenhuma Mão Erguida aos Céus Fique Sem Amparo",
+        "rank": 4,
+        "desc": "Ao usar a Perícia de Assistência via o Talento \"Rumo à Expedição Ardente\", o bônus de PEN de RES a Todos os Tipos agora é aplicado a todos os aliados. E quando Himeko - Nova obtém esse efeito, sua PEN de RES a Todos os Tipos aumenta adicionalmente em 10%.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Atravesse o Cosmos e Vá Além",
+        "rank": 5,
+        "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Nosso é o Juramento Rumo às Estrelas",
+        "rank": 6,
+        "desc": "A PEN de RES a Fogo de Himeko - Nova aumenta em 20%. O máximo de \"Energia Fonte\" aumenta para 6. Quando um aliado usa ou ativa uma Perícia de Assistência, o Dano causado pela Perícia de Assistência aumenta em 75%, e Himeko - Nova ganha 1 \"Energia Fonte\". Ao lançar o \"Feixe de Partículas Hiperluminal\" durante a Perícia Suprema, ganha adicionalmente 1 \"Energia Fonte\". Ao utilizar o \"Pulso de Aniquilação Orbital\", se a \"Energia Fonte\" atual for 6 ou mais, causa adicionalmente 1 instância de Dano de Fogo a todos os inimigos, equivalente a 160% do ATQ de Himeko - Nova.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
     },
     "800101": {
         "id": "800101",

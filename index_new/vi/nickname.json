@@ -82,6 +82,9 @@
         "1505": ["Evanescia"],
         "1506": ["Sói Bạc LV.999"],
         "1507": ["Mortenax Blade"],
+        "1508": ["Rin Tohsaka"],
+        "1509": ["Gilgamesh"],
+        "1510": ["Himeko - Nova"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -249,6 +252,9 @@
         "23057": ["Chào Mừng Đến Với Thành Phố Vũ Trụ"],
         "23058": ["Hẹn Gặp Mùa Hoa Tới"],
         "23059": ["Hình Hài Tái Sinh Từ Hỏa Ngục"],
+        "23060": ["Khi Một Vì Sao Chiếu Sáng Trời Đêm"],
+        "23061": ["Ngọn Lửa Nhỏ Thầm Lặng Tỏa Sáng"],
+        "23062": ["Ngươi Thấy Chính Là Ta"],
         "24000": ["Sự Sụp Đổ Của Aeon"],
         "24001": ["Du Hành Trên Biển Sao"],
         "24002": ["Chất Liệu Ký Ức"],
@@ -315,6 +321,8 @@
         "323": ["Vùng Đất Vĩnh Hằng Amphoreus"],
         "324": ["Tengoku@Livestream"],
         "325": ["Punklorde Ải Zero"],
-        "326": ["Thành Phố Ngàn Sao Hội Tụ"]
+        "326": ["Thành Phố Ngàn Sao Hội Tụ"],
+        "327": ["Điểm Khởi Hành Sao Rơi"],
+        "328": ["Viện Nghiên Cứu Sinh Học Vũ Trụ"]
     }
 }

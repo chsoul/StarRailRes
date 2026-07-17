@@ -82,6 +82,9 @@
         "1505": ["Evanescia"],
         "1506": ["Silver Wolf LV.999"],
         "1507": ["Mortenax Blade"],
+        "1508": ["Rin Tohsaka"],
+        "1509": ["Gilgamesh"],
+        "1510": ["Himeko • Nova"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -249,6 +252,9 @@
         "23057": ["Welcome to the Cosmic City"],
         "23058": ["Until the Flowers Bloom Again"],
         "23059": ["Reforged in Hellfire"],
+        "23060": ["A Star That Lights the Night"],
+        "23061": ["Flickering Stars"],
+        "23062": ["I Am As You Behold"],
         "24000": ["On the Fall of an Aeon"],
         "24001": ["Cruising in the Stellar Sea"],
         "24002": ["Texture of Memories"],
@@ -315,6 +321,8 @@
         "323": ["Amphoreus, The Eternal Land"],
         "324": ["Tengoku@Livestream"],
         "325": ["Punklorde Stage Zero"],
-        "326": ["City of Converging Stars"]
+        "326": ["City of Converging Stars"],
+        "327": ["Fallen Star Anchorage"],
+        "328": ["Cosmic Life Sciences Institute"]
     }
 }

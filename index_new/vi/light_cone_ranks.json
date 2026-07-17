@@ -4009,6 +4009,88 @@
             ]
         ]
     },
+    "23060": {
+        "id": "23060",
+        "skill": "Ước Nguyện Ban Đầu",
+        "desc": "Khi người trang bị gây sát thương sẽ bỏ qua #7[i]% Phòng Thủ của mục tiêu. Khi người trang bị thi triển Kỹ Năng Trợ Chiến sẽ hồi #2[i] điểm Năng Lượng và nhận \"Khởi Hành\", duy trì 2 hiệp, tối đa cộng dồn #3[i] tầng. Mỗi tầng \"Khởi Hành\" tăng #4[i]% sát thương Kỹ Năng Trợ Chiến, khi \"Khởi Hành\" đạt #5[i] tầng, mỗi tầng \"Khởi Hành\" tăng #6[i]% Sát Thương Tuyệt Kỹ.",
+        "params": [
+            [0, 6, 3, 0.2, 3, 0.2, 0.32],
+            [0, 6, 3, 0.25, 3, 0.25, 0.36],
+            [0, 6, 3, 0.3, 3, 0.3, 0.4],
+            [0, 6, 3, 0.35, 3, 0.35, 0.44],
+            [0, 6, 3, 0.4, 3, 0.4, 0.48]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "23061": {
+        "id": "23061",
+        "skill": "Mầm Non",
+        "desc": "Tăng #1[i]% Tỷ Lệ Bạo Kích của người trang bị. Khi nhân vật bất kỳ phe ta tích lũy tiêu hao lớn hơn hoặc bằng #3[i] Điểm Chiến Kỹ trong cùng một hiệp của bản thân, người trang bị nhận \"Vương Miện Lấp Lánh\", duy trì #4[i] hiệp. Khi người trang bị có \"Vương Miện Lấp Lánh\", sát thương do toàn thể phe ta gây ra bỏ qua #5[i]% Phòng Thủ của mục tiêu, sát thương Chiến Kỹ do người trang bị gây ra tăng #2[i]%, hiệu ứng cùng loại không thể cộng dồn.",
+        "params": [
+            [0.18, 0.72, 4, 3, 0.2],
+            [0.21, 0.84, 4, 3, 0.24],
+            [0.24, 0.96, 4, 3, 0.28],
+            [0.27, 1.08, 4, 3, 0.32],
+            [0.3, 1.2, 4, 3, 0.36]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.24 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.27 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23062": {
+        "id": "23062",
+        "skill": "Tùy Tâm",
+        "desc": "Tăng #1[i]% Tấn Công của người trang bị, tăng #2[f1]% hiệu suất hồi Năng Lượng. Khi người trang bị thi triển Tuyệt Kỹ, cứ tiêu hao 1 điểm Năng Lượng, sẽ khiến Sát Thương Tuyệt Kỹ gây ra lần này tăng #3[f2]%, tối đa tăng #6[i]%. Khi người trang bị vào chiến đấu hoặc thi triển Tuyệt Kỹ, khiến người trang bị nhận \"Thú Vui Của Vua\", duy trì #4[i] hiệp. Khi người trang bị có \"Thú Vui Của Vua\", Sát Thương Bạo Kích của toàn phe ta tăng #5[i]%, hiệu ứng cùng loại không thể cộng dồn.",
+        "params": [
+            [0.18, 0.1, 0.002, 3, 0.24, 0.72],
+            [0.21, 0.125, 0.0025, 3, 0.3, 0.9],
+            [0.24, 0.15, 0.003, 3, 0.36, 1.08],
+            [0.27, 0.175, 0.0035, 3, 0.42, 1.26],
+            [0.3, 0.2, 0.004, 3, 0.48, 1.44]
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.18 },
+                { "type": "SPRatioBase", "value": 0.1 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.21 },
+                { "type": "SPRatioBase", "value": 0.125 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.24 },
+                { "type": "SPRatioBase", "value": 0.15 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.27 },
+                { "type": "SPRatioBase", "value": 0.175 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.3 },
+                { "type": "SPRatioBase", "value": 0.2 }
+            ]
+        ]
+    },
     "24000": {
         "id": "24000",
         "skill": "Dập Lửa",

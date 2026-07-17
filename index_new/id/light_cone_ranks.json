@@ -4009,6 +4009,88 @@
             ]
         ]
     },
+    "23060": {
+        "id": "23060",
+        "skill": "First Wish",
+        "desc": "Saat mengakibatkan DMG, pengguna akan mengabaikan #7[i]% DEF target. Saat melancarkan Skill Dukungan, pengguna memulihkan #2[i] Energy dan memperoleh \"Sail\", berlangsung selama 2 giliran, dan dapat ditumpuk hingga #3[i] lapis. Setiap lapis \"Sail\" meningkatkan #4[i]% DMG Skill Dukungan. Saat \"Sail\" mencapai #5[i] lapis, setiap lapis \"Sail\" meningkatkan #6[i]% Ultimate DMG.",
+        "params": [
+            [0, 6, 3, 0.2, 3, 0.2, 0.32],
+            [0, 6, 3, 0.25, 3, 0.25, 0.36],
+            [0, 6, 3, 0.3, 3, 0.3, 0.4],
+            [0, 6, 3, 0.35, 3, 0.35, 0.44],
+            [0, 6, 3, 0.4, 3, 0.4, 0.48]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "23061": {
+        "id": "23061",
+        "skill": "Sprout",
+        "desc": "CRIT Rate pengguna meningkat #1[i]%. Saat karakter tim mana pun mengonsumsi total lebih dari atau sama dengan #3[i] Poin Skill dalam satu gilirannya sendiri, pengguna memperoleh \"Radiant Crown\" selama #4[i] giliran. Saat pengguna memiliki \"Radiant Crown\", DMG yang diakibatkan seluruh rekan tim mengabaikan #5[i]% DEF target, dan Skill DMG yang diakibatkan pengguna meningkat #2[i]%. Efek dengan jenis serupa tidak dapat ditumpuk.",
+        "params": [
+            [0.18, 0.72, 4, 3, 0.2],
+            [0.21, 0.84, 4, 3, 0.24],
+            [0.24, 0.96, 4, 3, 0.28],
+            [0.27, 1.08, 4, 3, 0.32],
+            [0.3, 1.2, 4, 3, 0.36]
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.18 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.21 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.24 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.27 }
+            ],
+            [
+                { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23062": {
+        "id": "23062",
+        "skill": "At Will",
+        "desc": "Meningkatkan #1[i]% ATK dan #2[f1]% Energy Regeneration Rate pengguna. Saat pengguna melancarkan Ultimate, untuk setiap 1 poin Energy yang dikonsumsi, meningkatkan Ultimate DMG yang diakibatkan kali ini sebesar #3[f2]%, maksimal meningkat #6[i]%. Saat pengguna memasuki pertempuran atau melancarkan Ultimate, pengguna akan memperoleh \"King's Entertainment\" selama #4[i] giliran. Saat pengguna memiliki \"King's Entertainment\", CRIT DMG seluruh rekan tim meningkat #5[i]%. Efek dengan jenis serupa tidak dapat ditumpuk.",
+        "params": [
+            [0.18, 0.1, 0.002, 3, 0.24, 0.72],
+            [0.21, 0.125, 0.0025, 3, 0.3, 0.9],
+            [0.24, 0.15, 0.003, 3, 0.36, 1.08],
+            [0.27, 0.175, 0.0035, 3, 0.42, 1.26],
+            [0.3, 0.2, 0.004, 3, 0.48, 1.44]
+        ],
+        "properties": [
+            [
+                { "type": "AttackAddedRatio", "value": 0.18 },
+                { "type": "SPRatioBase", "value": 0.1 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.21 },
+                { "type": "SPRatioBase", "value": 0.125 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.24 },
+                { "type": "SPRatioBase", "value": 0.15 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.27 },
+                { "type": "SPRatioBase", "value": 0.175 }
+            ],
+            [
+                { "type": "AttackAddedRatio", "value": 0.3 },
+                { "type": "SPRatioBase", "value": 0.2 }
+            ]
+        ]
+    },
     "24000": {
         "id": "24000",
         "skill": "Moth To Flames",

@@ -1663,6 +1663,110 @@
         "hide_desc": "※ Saksikan Asat Pramad mengungkap jati dirinya",
         "hide": false
     },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Ibu Kota Makhluk Fantastis",
+        "desc": "Saksikan masa depan Planarcadia jatuh ke dalam kegelapan akhir zaman",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Metro 1999",
+        "desc": "Temui rekan-rekan di Stasiun Perdido",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "Titik Awal Bernama \"Himeko\"",
+        "desc": "Semua bermula dari sini ....",
+        "hide_desc": "※ Saksikan titik awal perjalanan Himeko",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "Gelombang Gravitasi Abadi",
+        "desc": "Merintis adalah perjalanan yang melampaui gravitasi.",
+        "hide_desc": "※ Beri tahu kru Express informasi tentang Asat Pramad",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "Potret Diri Bernama \"Merintis\"",
+        "desc": "Kalau perjalanan ini menyenangkan, maka perjalanan ini tidak sia-sia.",
+        "hide_desc": "※ Selesaikan tantangan di mana Asat Pramad mengungkapkan kebenaran",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Seribu Warna Menjadi Satu",
+        "desc": "Raja yang bijaksana membuka matanya, segala wujud adalah semu",
+        "hide_desc": "※ Temukan ribuan jelmaan Asat Pramad",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Sunyi",
+        "desc": "Keheningan, akhir dari segalanya.",
+        "hide_desc": "※ Kepala yang jatuh menatap ego yang kalah, dan tiba-tiba dia ingin tertawa",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Variasi Utopia: Anak Salju",
         "desc": "Mainkan simfoni aneh dan temukan makhluk misterius yang bersembunyi di \"Pertapaan Inkford\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Sultan",
+        "desc": "Buka Peti Harta 400 kali di Planarcadia",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Sampai Jumpa, Thundercoil",
+        "desc": "Kalahkan thundercoil untuk sementara waktu di \"Momen Jump\" Ibu Kota Iblis",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Panggil Aku Isolator",
+        "desc": "Saat menyelesaikan \"Momen Jump\" di Ibu Kota Iblis, terkena sambaran petir kurang dari 20 kali",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Jembatan Menuju Bintang-Bintang",
+        "desc": "Bangun jembatan di \"Jump 2D!\" Buaian Bintang Jatuh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "Buku Gambar Pertama",
+        "desc": "Di \"Buaian Bintang Jatuh\", kuasai kuas yang melukiskan cerita",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Kehidupan yang Bersinar",
+        "desc": "Lukiskan masa lalu \"milikmu\" di \"Buaian Bintang Jatuh\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Silsilah Utopia",
+        "desc": "Kumpulkan semua konten baru yang ditemukan dalam \"Kisah Lemak Melayang\" di Kota Seafeld dan keanehan di Ibu Kota Iblis, serta selesaikan semua objek koleksi dalam \"Melacak Sumber Lemak Melayang: Rotasi 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Rakun Menuju Bulan",
+        "desc": "Gunakan \"Jump 2D!\" untuk terbang dari menara TV Ibu Kota Iblis menuju bagian dalam Bulan Imajinasi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Penyakit Bulan",
+        "desc": "Hajar \"Pantulan Bulan Iblis\" di \"Jump 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Variasi Utopia: Bintang yang Berkedip",
+        "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Buaian Bintang Jatuh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Variasi Utopia: Bulan sang Putri",
+        "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Ibu Kota Iblis",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Mengembara Separuh Hidup, Tak Kunjung Bertemu Tuan",
+        "desc": "Kalahkan \"Floatspirit Super Duper BESAR\" di \"Jump 2D!\" Buaian Bintang Jatuh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Dominasi Pemulung",
+        "desc": "Kumpulkan 1 sampah di \"Jump 2D!\" Ibu Kota Iblis Kiamat",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "Pernyataan Cinta yang Paling Abadi",
+        "desc": "Menyaksikan reuni yang ditakdirkan antara dua pejalan kaki di sudut jalan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Rapsodi Akhir Zaman",
+        "desc": "Di Ibu Kota Iblis Kiamat, menangkap seekor kucing hitam yang bolos kerja",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Berangkatlah, \"Interstellar\"",
+        "desc": "Dukung rencana keberangkatan Kapten Swooshy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Harus Difoto?",
+        "desc": "Di Ibu Kota Iblis yang diselimuti awan petir, di bawah gemuruh petir yang menggelegar, gunakan Polaroid Kucing Hitam dengan sigap",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "Aku Tidak Disukai ... Seharusnya Bukan Salahmu",
+        "desc": "Bantu wispae dalam kepompong di Ibu Kota Iblis",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Pasukan Khusus Petir",
+        "desc": "Tampilkan pertunjukan memukau bersama thundercoil di Ibu Kota Iblis",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Awal Legenda",
+        "desc": "Selesaikan semua stage di Tukang Balok Anti Korup",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Penaklukan Tanpa Batas",
+        "desc": "Di Tukang Balok Anti Korup, berhasil menyelesaikan stage Mode Tanpa Batas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Di Balik Tembok Hitam",
+        "desc": "Di Tukang Balok Anti Korup, capai 4★ di semua stage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Master Pemrograman",
+        "desc": "Di Tukang Balok Anti Korup, gunakan kemampuan 40 kali dalam satu ronde",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Ahli Pemrograman",
+        "desc": "Di Tukang Balok Anti Korup, gunakan kemampuan 20 kali dalam satu ronde",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Haha, Hahaha, Hahahaha!",
+        "desc": "Di Perang Cawan Suci Imagenae, gunakan Gilgamesh dan mainkan 10 kartu \"Gate of Babylon!\" sekaligus",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "Trailblazer Paling Memukau Hati di Alam Semesta",
+        "desc": "Di Perang Cawan Suci Imagenae, gunakan Trailblazer dan mainkan 8 kartu \"Hantaman Aha!\" dalam giliran rekan tim yang sama",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Unlimited Blade Works KW",
+        "desc": "Di Perang Cawan Suci Imagenae, gunakan Archer dan hasilkan 4 kartu proyeksi dalam giliran rekan tim yang sama",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Pedang Kemenangan Ganda Galaksi",
+        "desc": "Di Perang Cawan Suci Imagenae, gunakan Saber dan lancarkan Ultimate sebanyak 2 kali dalam giliran rekan tim yang sama",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "Oh Manusia yang Ingin Membelenggu Dewa",
+        "desc": "Tingkatkan Chimera ke level maksimal dalam Perang Cawan Suci Imagenae",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Pengkhianat Layak Dihabisi",
+        "desc": "Di Perang Cawan Suci Imagenae, eliminasi 1 musuh menggunakan \"Pendobrak Aturan\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "Aku Sudah Melakukan yang Terbaik",
+        "desc": "Di Perang Cawan Suci Imagenae, mainkan \"Rho Aias\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12655,6 +13007,102 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Bululu Melintasi Biru Angkasa",
+        "desc": "Dalam satu pertempuran, selain Himeko • Nova, terdapat 3 karakter \"Rekan Perintisan\" yang telah menggunakan Skill Dukungan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Teh Sore Pukul Empat",
+        "desc": "Himeko • Nova melancarkan Ultimate pada gilirannya yang ke-4",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Menemani Sepanjang Jalan",
+        "desc": "Dalam satu pertempuran, Himeko • Nova memicu suara khusus dari 4 karakter \"Rekan Perintisan\" menggunakan Ultimate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "2/3 Dewa",
+        "desc": "Saat memenangkan pertempuran, persentase HP Gilgamesh berada di antara 64%~68%",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Noble Phantasm Cukup",
+        "desc": "Gilgamesh melancarkan Technique dan mengenai 5 musuh atau lebih",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Menciptakan Era Baru, Sudah Seharusnya",
+        "desc": "Gilgamesh adalah karakter pertama dalam tim yang melancarkan Ultimate",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Anggaran Berlebih",
+        "desc": "Dalam satu pertempuran, \"Gem Energy\" yang dikonsumsi Rin Tohsaka melebihi 100",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Hukum Emas (Palsu)",
+        "desc": "Gunakan karakter tim Rin Tohsaka untuk mengambil 8 Koin Emas sekaligus",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Tidak Ada Kebebasan Bagi Pahlawan",
+        "desc": "Menangkan 1 pertempuran menggunakan tim yang terdiri dari Rin Tohsaka dan Archer, dengan Archer dikalahkan sebanyak 3 kali atau lebih dalam pertempuran tersebut",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Paduan Suara Terakhir",
+        "desc": "Dalam pertempuran melawan \"Comediologist\", buat empat atau lebih \"Comediologist\" melancarkan \"Curtain Call\" secara bersamaan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Ahli Penjinak Bom",
+        "desc": "Dalam pertempuran melawan \"Asat Pramad\", saat \"Asat Pramad\" melancarkan \"Meme Carnival\", tidak ada \"Meme'd\" yang bisa diledakkan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Langsung Praktik",
+        "desc": "Dalam pertempuran melawan \"Asat Pramad\", gunakan \"Barrier\" yang diperoleh dari \"Pertaruhan Penyatuan Takdir\" untuk menahan DMG dari \"The Game Is On\"",
+        "hide_desc": "",
+        "hide": false
+    },
     "4080101": {
         "id": "4080101",
         "series_id": "8",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Mau Buat Boneka Salju?",
         "desc": "Dibekukan di dalam balok es di \"Jump 2D!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Percobaan Gagal",
+        "desc": "Tersambar petir sebanyak 1 kali di Ibu Kota Iblis Kiamat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Tak Secepat Cahaya",
+        "desc": "Disambar petir sebanyak 1 kali di \"Jump 2D!\" Ibu Kota Iblis Kiamat",
         "hide_desc": "",
         "hide": false
     },

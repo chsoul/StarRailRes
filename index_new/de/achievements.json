@@ -1663,6 +1663,110 @@
         "hide_desc": "※ Werde Zeuge von Asat Pramads wahrer Identität.",
         "hide": false
     },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Stadt der fantastischen Kreaturen",
+        "desc": "Werde Zeuge, wie Planarcadias Zukunft in apokalyptische Dunkelheit stürzt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "U-Bahn 1999",
+        "desc": "Triff dich mit deinen Kameraden auf der Perdido-Station.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "Der Ausgangspunkt namens „Himeko“",
+        "desc": "Alles beginnt hier ...",
+        "hide_desc": "※ Werde Zeuge des Ausgangspunkts von Himekos Reise.",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "Unvergängliche Gravitationswelle",
+        "desc": "Trailblaze ist eine Reise, die die Schwerkraft überwindet.",
+        "hide_desc": "※ Gib die Informationen über Asat Pramad an die Express-Besatzung weiter.",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "Das Selbstporträt namens „Trailblaze“",
+        "desc": "Eine freudvolle Reise macht den Weg durch diese Welt nicht umsonst.",
+        "hide_desc": "※ Schließe die Herausforderung ab, in der Asat Pramad die Wahrheit enthüllt.",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Alle Farben zu Einem",
+        "desc": "Der Spiritus sieht: Alle Formen sind formlos.",
+        "hide_desc": "※ Durchschaue die unzähligen Inkarnationen von Asat Pramad.",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Stille",
+        "desc": "Stille, das Ende aller Dinge.",
+        "hide_desc": "※ Der zu Boden gefallene Kopf starrt auf sein besiegtes Selbst, und plötzlich überkommt ihn das Verlangen zu lachen.",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "",
+        "desc": "",
+        "hide_desc": "",
+        "hide": true
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4372,6 +4476,110 @@
         "series_id": "4",
         "title": "Arcadia-Variation: Schneekind",
         "desc": "Spiele die Seltsame Melodie und finde die mysteriöse Kreatur, die sich im Hotel „Artford Crossing“ versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Reicher Tycoon",
+        "desc": "Öffne 400-mal einen Schatz von Planarcadia.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Auf Wiedersehen, Donnerdrache",
+        "desc": "Schlage den Donnerdrachen während der „Sprung-Zeit“ in der Dämonenhauptstadt vorübergehend zurück.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Nenn mich Isolator",
+        "desc": "Schließe die „Sprung-Zeit“ in der Dämonenstadt ab und werde dabei weniger als 20-mal vom Blitz getroffen.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Brücke zu den Sternen",
+        "desc": "Baue eine Brücke in „Interplanarer Sprung!“ in der Wiege des gefallenen Sterns.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "Das erste Bilderbuch",
+        "desc": "Meistere den Pinsel, der in der Wiege des gefallenen Sterns Geschichten malt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Strahlendes Leben",
+        "desc": "Zeichne in der Wiege des gefallenen Sterns „deine“ Vergangenheit.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Arcadia-Genealogie",
+        "desc": "Sammle alle neu entdeckten Inhalte der „Chroniken des schwimmenden Schmieröls“ in Seafeld City und der Dämonenhauptstadt-Anomalie und finde alle Sammelobjekte in „Ursprung des schwimmenden Schmieröls: Interplanare Rotation!“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Waschbär fliegt zum Mond",
+        "desc": "Fliege mithilfe von „Interplanarer Sprung!“ vom Fernsehturm der Dämonenhauptstadt ins Innere des Phantasmonds.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Mondkrankheit",
+        "desc": "Besiege das „Spiegelbild des Dämonenmondes“ in „Interplanarer Sprung!“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Der zwinkernde Stern",
+        "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich in der Wiege des gefallenen Sterns versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Der Mond der Prinzessin",
+        "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich in der Dämonenhauptstadt versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "Ein halbes Leben lang gesucht, nie einen Meister gefunden",
+        "desc": "Besiege den superriesengroßen Schwebegeist in „Interplanarer Sprung!“ in der Wiege des gefallenen Sterns.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "Herrschaft der Schrottsammler",
+        "desc": "Berge 1 Schrottstück in „Interplanarer Sprung!“ in der Dämonenhauptstadt.",
         "hide_desc": "",
         "hide": false
     },
@@ -9895,6 +10103,150 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "Das schönste Liebesgeständnis",
+        "desc": "Werde Zeuge eines schicksalhaften Wiedersehens zwischen zwei Passanten an einer Straßenecke.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Apokalyptisches Capriccio",
+        "desc": "Fange in der Dämonenstadt eine schwarze Katze ein, die die Arbeit schwänzt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "Brich auf, die Interstellar",
+        "desc": "Unterstütze den Abreiseplan von Kapitän Wusch",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "Muss dieses Foto unbedingt sein?",
+        "desc": "Steh unter den Sturmwolken in der Dämonenhauptstadt und verwende im krachenden Donner blitzschnell die Instacam „Schwarze Katze“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "Ich bin nicht beliebt ... Das ist wohl nicht deine Schuld",
+        "desc": "Hilf dem in einem Kokon steckenden Wispae in der Dämonenhauptstadt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Donnertrupp",
+        "desc": "Schließe in der Dämonenhauptstadt mit dem Donnerdrachen eine fantastische Aufführung ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "Der Beginn der Legende",
+        "desc": "Schließe alle Etappen in „Antikorruptions-Brickbuster“ ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Erobere die Unendlichkeit",
+        "desc": "Schließe eine Etappe im Endlosmodus von „Antikorruptions-Brickbuster“ erfolgreich ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Jenseits der schwarzen Wand",
+        "desc": "Erreiche 4 Sterne in allen Etappen von „Antikorruptions-Brickbuster“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Programmiermeister",
+        "desc": "Setze in „Antikorruptions-Brickbuster“ in einer einzigen Runde 40-mal eine Fähigkeit ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Programmierexperte",
+        "desc": "Setze in „Antikorruptions-Brickbuster“ in einer einzigen Runde 20-mal eine Fähigkeit ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "Haha, hahaha, hahahahaha!",
+        "desc": "Verwende Gilgamesh im Imagenae-Krieg um den Heiligen Kelch und spiele 10 Karte(n) des Typs „Gate of Babylon!“ hintereinander aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "{F#Die herzergreifendste Trailblazerin}{M#Der herzergreifendste Trailblazer} im ganzen Universum",
+        "desc": "Verwende {F#die Trailblazerin}{M#den Trailblazer} im Imagenae-Krieg um den Heiligen Kelch und spiele in einer einzigen Runde eines Verbündeten 8 Karte(n) des Typs „Ahas Volltreffer!“ aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Abklatsch: Unlimited Blade Works",
+        "desc": "Verwende Archer im Imagenae-Krieg um den Heiligen Kelch und erzeuge in einer einzigen Runde eines Verbündeten 4 Karte(n) des Typs „Projektion“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Astrales Doppelkonter-Siegeschwert",
+        "desc": "Verwende Saber im Imagenae-Krieg um den Heiligen Kelch und setze in einer einzigen Runde eines Verbündeten zweimal ihren Ultimate ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "O ihr Sterblichen, die ihr einen Gott fesseln wollt",
+        "desc": "Erreiche im Imagenae-Krieg um den Heiligen Kelch die Höchststufe einer Chimäre.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Den Untreuen gebührt der Tod",
+        "desc": "Besiege im Imagenae-Krieg um den Heiligen Kelch 1 Gegner mit Regelbrecher.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "Verteidigung aufs Maximum",
+        "desc": "Spiele im Imagenae-Krieg um den Heiligen Kelch „Rho Aias“ aus.",
+        "hide_desc": "",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -12655,6 +13007,102 @@
         "hide_desc": "",
         "hide": true
     },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Flauschis himmlische Reise",
+        "desc": "Setze in einem einzigen Kampf die Unterstützungsfertigkeit von 3 „Trailblaze-Gefährten“-Figuren außer Himeko – Nova ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Nachmittagstee um vier",
+        "desc": "Setze mit Himeko – Nova in ihrer 4. Runde den Ultimate ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Gemeinsame Reise",
+        "desc": "Löse in einem einzigen Kampf durch den Ultimate von Himeko – Nova besondere Sprachzeilen von 4 „Trailblaze-Gefährten“-Figuren aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Zwei Drittel Gott",
+        "desc": "Nach einem gewonnenen Kampf liegt der LP-Prozentsatz von Gilgamesh zwischen 64% und 68%.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Ausreichende Reserven an Edlen Phantasmen",
+        "desc": "Setze Gilgameshs Technik ein und triff 5 oder mehr Gegner.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Himmel und Erde trennten sich, wie es sein sollte",
+        "desc": "Setze mit Gilgamesh als erste Figur im Team, einen Ultimate ein.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Budgetüberschreitung",
+        "desc": "Verbrauche mit Rin Tohsaka in einem einzigen Kampf mehr als 100 Juwelenenergie.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Goldene Regel (Falsch)",
+        "desc": "Verwende die Verbündete Rin Tohsaka, um in einer einzigen Instanz 8 Goldmünzen einzusammeln.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Wenn es schlecht steht, ringen selbst Helden um Freiheit",
+        "desc": "Erringe einen Kampfsieg mit einem Team aus Rin Tohsaka und Archer, wobei Archer im Kampf mindestens 3-mal k. o. geschlagen wird.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Großer Chor der Sterbenden",
+        "desc": "Lass im Kampf gegen den Komödiologen 4 oder mehr Komödiologen gleichzeitig „Schlussapplaus“ einsetzen.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "{F#Bombenentschärferin}{M#Bombenentschärfer}",
+        "desc": "Sorge im Kampf gegen Asat Pramad dafür, dass kein „Knaller-Gag“ zum Zünden vorhanden ist, wenn er „Meme-Karneval“ einsetzt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Lerne es ganz nebenbei",
+        "desc": "Nutze im Kampf gegen Asat Pramad die durch „Spiel der Schicksalskonvergenz“ erhaltene Barriere, um den SCH von „Vorhang auf“ abzuwehren.",
+        "hide_desc": "",
+        "hide": false
+    },
     "4080101": {
         "id": "4080101",
         "series_id": "8",
@@ -13260,6 +13708,22 @@
         "series_id": "8",
         "title": "Willst du einen Schneemann bauen?",
         "desc": "Werde während „Interplanarer Sprung!“ in einem Eisblock eingefroren.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Tribulation fehlgeschlagen",
+        "desc": "Werde in der Dämonenhauptstadt 1-mal vom Blitz getroffen.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "Nicht schneller als Licht",
+        "desc": "Werde in „Interplanarer Sprung!“ in der Dämonenhauptstadt 1-mal vom Blitz getroffen",
         "hide_desc": "",
         "hide": false
     },

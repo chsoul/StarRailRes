@@ -809,5 +809,29 @@
             []
         ],
         "icon": "icon/relic/326.png"
+    },
+    "327": {
+        "id": "327",
+        "name": "Ankerplatz des gefallenen Sterns",
+        "desc": [
+            "Erhöht die KRIT-Rate des Trägers um 8%. Wenn beim Kampfeintritt sowohl der Träger als auch ein weiteres Teammitglied Trailblaze-Gefährten sind, wird der KRIT-SCH des Trägers um 32% erhöht."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ]
+        ],
+        "icon": "icon/relic/327.png"
+    },
+    "328": {
+        "id": "328",
+        "name": "Institut für kosmische Biowissenschaften",
+        "desc": [
+            "Wenn die max. Energie des Trägers beim Kampfeintritt mindestens 200 Pkt. beträgt, wird der verursachte SCH des Trägers für jeden überschüssigen Pkt. um 0.2% erhöht, bis zu einem Maximum von 32%."
+        ],
+        "properties": [
+            []
+        ],
+        "icon": "icon/relic/328.png"
     }
 }

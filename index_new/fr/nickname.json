@@ -82,6 +82,9 @@
         "1505": ["Evanescia"],
         "1506": ["Louve d'argent Niv. 999"],
         "1507": ["Blade Mortenax"],
+        "1508": ["Rin Tohsaka"],
+        "1509": ["Gilgamesh"],
+        "1510": ["Himeko • Nova"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -249,6 +252,9 @@
         "23057": ["Terrain de jeu universel"],
         "23058": ["Printemps des retrouvailles"],
         "23059": ["Refonte infernale"],
+        "23060": ["Une étoile illuminant la nuit"],
+        "23061": ["Étoiles scintillantes"],
+        "23062": ["Je suis tel que tu me vois"],
         "24000": ["La chute d'un Aiôn"],
         "24001": ["Exploration de la mer stellaire"],
         "24002": ["Texture des Mémoires"],
@@ -315,6 +321,8 @@
         "323": ["Amphoreus, la terre éternelle"],
         "324": ["Tengoku@Stream"],
         "325": ["Punklorde : niveau zéro"],
-        "326": ["Épicentre du cosmos"]
+        "326": ["Épicentre du cosmos"],
+        "327": ["Ancrage de l'étoile déchue"],
+        "328": ["Institut cosmique des Sciences de la Vie"]
     }
 }

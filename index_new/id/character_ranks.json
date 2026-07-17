@@ -6722,6 +6722,231 @@
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
     },
+    "150801": {
+        "id": "150801",
+        "name": "Zelretch's Apprentice",
+        "rank": 1,
+        "desc": "Jika jumlah \"Gem Energy\" yang dikonsumsi oleh Enhanced Skill setiap kalinya lebih dari atau sama dengan 30 poin, Rin Tohsaka memperoleh \"Shadow Gem\" sebesar jumlah \"Gem Energy\" yang dikonsumsi.\nSaat memiliki \"Shadow Gem\", Skill diperkuat menjadi \"Second Magic Experiment\". Enhanced Skill akan mengonsumsi seluruh \"Shadow Gem\", tidak memicu efek yang mengubah Poin Skill menjadi \"Gem Energy\" dan tidak mengonsumsi \"Gem Energy\".",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Dimensional Traveler",
+        "rank": 2,
+        "desc": "Skill DMG yang diakibatkan Rin Tohsaka meningkat 30%. Saat Rin Tohsaka berada di medan pertempuran, Skill DMG yang diakibatkan seluruh rekan tim menjadi 130% dari DMG aslinya.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Holy Grail War: Victory Memorial",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Red Devil: Triple Speed",
+        "rank": 4,
+        "desc": "Ketika efek peningkatan CRIT DMG dari Talent \"Gem Magecraft\" berlaku pada Rin Tohsaka, efek tersebut dapat ditumpuk, maksimal hingga 2 lapis.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Goddess of Venus's Favor",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Nailed It This Time!",
+        "rank": 6,
+        "desc": "RES PEN Seluruh Tipe Rin Tohsaka meningkat 20%. Saat melancarkan Ultimate, memperoleh 24 poin \"Gem Energy\" dan 1 giliran tambahan.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "He Who Saw the Deep",
+        "rank": 1,
+        "desc": "Saat Gilgamesh memiliki \"King's Acknowledgement\", efek \"King's Acknowledgement\" yang mengabaikan DEF juga berlaku pada rekan lainnya, dan \"King's Acknowledgement\" meningkatkan ekstra 60% ATK Gilgamesh. Saat melancarkan Skill, memulihkan ekstra 40 Energy dalam jumlah tetap.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Wisdom That Encompassed All",
+        "rank": 2,
+        "desc": "Gilgamesh memperoleh 5 poin \"Interest\" saat memasuki pertempuran, dan memperoleh ekstra 5 poin \"Interest\" saat melancarkan Ultimate. DMG Multiplier Skill \"Gate of Babylon\" terhadap target utama meningkat 100%, dan DMG Multiplier terhadap target yang berdekatan meningkat 50%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Journey That Spanned Far",
+        "rank": 3,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "King Who Bowed to None",
+        "rank": 4,
+        "desc": "Energy Regeneration Rate Gilgamesh meningkat 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Sword That Parted Gods from Man",
+        "rank": 5,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Soul That Bore Friendship",
+        "rank": 6,
+        "desc": "Bounce DMG Multiplier dari Ultimate \"Enuma Elish\" meningkat 80%. Saat Gilgamesh di medan pertempuran, RES PEN Seluruh Tipe karakter tim meningkat 20%. Saat rekan melancarkan Ultimate, Gilgamesh memperoleh 1 poin \"Golden Rule\", maksimal mengakumulasi 3 poin. Saat melancarkan Ultimate diri sendiri, akan mengonsumsi semua \"Golden Rule\", setiap mengonsumsi 1 poin \"Golden Rule\", CRIT DMG dari Ultimate DMG yang diakibatkan meningkat 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "That Which We Stride Is the Trailblaze",
+        "rank": 1,
+        "desc": "Jumlah pelancaran tambahan efek Skill Dukungan dari Talent meningkat sebanyak 1 kali. Dalam status \"Companion Protocol: Verdict\", jumlah pelancaran Ultimate yang diperlukan untuk melancarkan Skill Dukungan berkurang sebanyak 1 kali. Dalam status \"Companion Protocol: Decimation\", Charge yang diperlukan untuk melancarkan Skill Dukungan berkurang sebanyak 3 poin. Saat Himeko • Nova melancarkan Skill Dukungan, jumlah efek yang mengakibatkan DMG tambahan meningkat sebanyak 1 kali.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "The Colors We Never Strike",
+        "rank": 2,
+        "desc": "Batas maksimum penggunaan Skill Dukungan Himeko • Nova meningkat menjadi 2 kali, DMG yang diakibatkan oleh Ultimate dan Skill Dukungan menjadi 130% dari DMG aslinya. Saat setiap giliran dimulai ketika berstatus \"Navigator's Semaphore\", segera memulihkan ekstra 1 kali kesempatan penggunaan Skill Dukungan. Efek Trace \"Hark! The Express's Pulse Roars\": Saat karakter non-Rekan Perintisan menggunakan Skill Dukungan, karakter tersebut juga memperoleh 1 giliran tambahan.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "We Who Are Starborn Muse Starward",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Let No Skyward Hand Stay Unheld",
+        "rank": 4,
+        "desc": "Saat menggunakan Skill Dukungan melalui Talent \"Of Fire and Far Faring\", efek peningkatan RES PEN Seluruh Tipe berlaku untuk seluruh rekan tim. Saat Himeko • Nova memperoleh efek tersebut, RES PEN Seluruh Tipe meningkat ekstra 10%.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "To Cross the Cosmos and Beyond",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Ours Is the Oath to Sail Starward",
+        "rank": 6,
+        "desc": "Fire RES PEN Himeko • Nova meningkat 20%. Batas maksimum \"Source Energy\" meningkat menjadi 6 poin. Saat rekan tim menggunakan atau melancarkan Skill Dukungan, DMG yang diakibatkan oleh Skill Dukungan meningkat 75%, Himeko • Nova akan memperoleh 1 poin \"Source Energy\". Saat melancarkan serangan \"Hyperluminal Particle Beam\" selama Ultimate berlangsung, memperoleh ekstra 1 poin \"Source Energy\". Saat melancarkan \"Orbital Annihilation Pulse\", jika \"Source Energy\" saat ini lebih dari atau sama dengan 6 poin, maka mengakibatkan ekstra 1 kali Fire DMG sebesar 160% ATK Himeko • Nova pada seluruh musuh.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
     "800101": {
         "id": "800101",
         "name": "A Falling Star",

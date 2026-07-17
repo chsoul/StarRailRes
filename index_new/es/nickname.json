@@ -82,6 +82,9 @@
         "1505": ["Evanescia"],
         "1506": ["Silver Wolf Niv. 999"],
         "1507": ["Mortenax Blade"],
+        "1508": ["Rin Tohsaka"],
+        "1509": ["Gilgamesh"],
+        "1510": ["Himeko Nova"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -249,6 +252,9 @@
         "23057": ["Bienvenidos a la ciudad cósmica"],
         "23058": ["Encuentro en la próxima primavera"],
         "23059": ["Nuevo cuerpo del averno ardiente"],
+        "23060": ["Cuando una estrella ilumina la noche"],
+        "23061": ["Destelleos silentes"],
+        "23062": ["Soy lo que ves"],
         "24000": ["Sobre la caída de un Eón"],
         "24001": ["Crucero estelar"],
         "24002": ["La textura de los recuerdos"],
@@ -315,6 +321,8 @@
         "323": ["Amphoreus, la tierra eterna"],
         "324": ["Tengoku@sala de chat"],
         "325": ["Etapa cero de Punklorde"],
-        "326": ["Ciudad de las mil estrellas"]
+        "326": ["Ciudad de las mil estrellas"],
+        "327": ["Punto de partida de la estrella caída"],
+        "328": ["Instituto de Ciencias de la Vida Cósmica"]
     }
 }

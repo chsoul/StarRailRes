@@ -1327,6 +1327,33 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11508": {
+        "id": "11508",
+        "name": "Tinh Hồn Của Rin Tohsaka",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11509": {
+        "id": "11509",
+        "name": "Tinh Hồn Của Gilgamesh",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11510": {
+        "id": "11510",
+        "name": "Tinh Hồn \"Himeko - Nova\"",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "18001": {
         "id": "18001",
         "name": "Hình Ảnh \"Hủy Diệt\"",
@@ -3819,6 +3846,84 @@
             "Máy Ghép Vạn Năng - Ghép Di Vật"
         ]
     },
+    "83271": {
+        "id": "83271",
+        "name": "Điểm Khởi Hành Sao Rơi",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83272": {
+        "id": "83272",
+        "name": "Điểm Khởi Hành Sao Rơi",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83273": {
+        "id": "83273",
+        "name": "Điểm Khởi Hành Sao Rơi",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83274": {
+        "id": "83274",
+        "name": "Điểm Khởi Hành Sao Rơi",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71058.png",
+        "come_from": [
+            "Trích Xuất Phụ Kiện Vị Diện \"Vũ Trụ Sai Phân\"",
+            "Máy Ghép Vạn Năng - Ghép Di Vật"
+        ]
+    },
+    "83281": {
+        "id": "83281",
+        "name": "Viện Nghiên Cứu Sinh Học Vũ Trụ",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83282": {
+        "id": "83282",
+        "name": "Viện Nghiên Cứu Sinh Học Vũ Trụ",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83283": {
+        "id": "83283",
+        "name": "Viện Nghiên Cứu Sinh Học Vũ Trụ",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83284": {
+        "id": "83284",
+        "name": "Viện Nghiên Cứu Sinh Học Vũ Trụ",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71059.png",
+        "come_from": [
+            "Trích Xuất Phụ Kiện Vị Diện \"Vũ Trụ Sai Phân\"",
+            "Máy Ghép Vạn Năng - Ghép Di Vật"
+        ]
+    },
     "89001": {
         "id": "89001",
         "name": "Phụ Kiện Vị Diện",
@@ -5048,6 +5153,15 @@
         "icon": "icon/item/110508.png",
         "come_from": ["Dư Âm Chiến Đấu: \"Bến Bờ Chôn Ký Ức\" Tàn Tích Thời Gian"]
     },
+    "110509": {
+        "id": "110509",
+        "name": "Kỳ Vọng Của Kẻ Khai Ngộ Giả Tạo",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110509.png",
+        "come_from": ["Dư Âm Chiến Đấu - Yêu Đô Tịch Diệt Không Hưởng"]
+    },
     "110610": {
         "id": "110610",
         "name": "Giọt Lệ Quỹ Đạo",
@@ -5766,6 +5880,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/295534.png",
+        "come_from": []
+    },
+    "122004": {
+        "id": "122004",
+        "name": "Huy Chương Vượt Ải Hạn Giờ Trọng Tài Dị Tướng",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295535.png",
         "come_from": []
     },
     "123000": {
@@ -10536,6 +10659,159 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140613": {
+        "id": "140613",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140614": {
+        "id": "140614",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140615": {
+        "id": "140615",
+        "name": "",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": null,
+        "come_from": []
+    },
+    "140616": {
+        "id": "140616",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140617": {
+        "id": "140617",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140618": {
+        "id": "140618",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140619": {
+        "id": "140619",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140620": {
+        "id": "140620",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140621": {
+        "id": "140621",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140622": {
+        "id": "140622",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140623": {
+        "id": "140623",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140624": {
+        "id": "140624",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140625": {
+        "id": "140625",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140626": {
+        "id": "140626",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140627": {
+        "id": "140627",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140628": {
+        "id": "140628",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140629": {
+        "id": "140629",
+        "name": "Sách Tranh \"Khởi Hành Giữa Các Vì Sao\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
         "come_from": []
     },
     "149957": {
@@ -21490,6 +21766,159 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192107": {
+        "id": "192107",
+        "name": "Chúc Ngủ Ngon, Rồng Sừng Sấm Thân Mến",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192108": {
+        "id": "192108",
+        "name": "Nhật Ký Của Một Kẻ Đầu Cơ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192109": {
+        "id": "192109",
+        "name": "Thông Báo Sơ Tán Khẩn Cấp",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192110": {
+        "id": "192110",
+        "name": "Blog Tận Thế",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192111": {
+        "id": "192111",
+        "name": "Tuyên Ngôn Giáp Máy Tự Do",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192113": {
+        "id": "192113",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192114": {
+        "id": "192114",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192115": {
+        "id": "192115",
+        "name": "Ký Sự Mỡ Nổi: Đoạn Trích",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192116": {
+        "id": "192116",
+        "name": "Ký Sự Mỡ Nổi: Chương Khỉ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192117": {
+        "id": "192117",
+        "name": "Ký Sự Mỡ Nổi: Chương Thỏ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192118": {
+        "id": "192118",
+        "name": "Báo Cáo Điều Tra \"Phòng Nhân Sự\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192119": {
+        "id": "192119",
+        "name": "Báo Cáo Điều Tra \"Phòng Tài Sản Vô Hình\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192120": {
+        "id": "192120",
+        "name": "",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192121": {
+        "id": "192121",
+        "name": "Thư Gửi Himeko",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192122": {
+        "id": "192122",
+        "name": "Danh Sách Mua Sắm",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192123": {
+        "id": "192123",
+        "name": "Phương Án Tái Tạo Người Khổng Lồ Khai Phá Sao Pegana",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192124": {
+        "id": "192124",
+        "name": "Ghi Chép Khai Phá Cà Phê",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "\"Bình Minh Của Tai Ương\"",
@@ -23527,6 +23956,177 @@
     "210476": {
         "id": "210476",
         "name": "\"Họa Sĩ Khởi Nguồn\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210477": {
+        "id": "210477",
+        "name": "\"Lơ Lửng Miệng Thú\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210478": {
+        "id": "210478",
+        "name": "\"Nghỉ Ngơi Chốc Lát\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210479": {
+        "id": "210479",
+        "name": "\"Buổi Chiều Tỉ Lệ Vàng\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210480": {
+        "id": "210480",
+        "name": "\"Bản Vẽ Chưa Từng Có\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210481": {
+        "id": "210481",
+        "name": "\"Mộng Cũ Bào Mòn\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210482": {
+        "id": "210482",
+        "name": "\"Nhìn Về Nơi Xanh Thẳm\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210483": {
+        "id": "210483",
+        "name": "\"Chiếc Nôi Sao Rơi\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210484": {
+        "id": "210484",
+        "name": "\"Phế Tích Hư Cấu\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210485": {
+        "id": "210485",
+        "name": "\"Vươn Tới Sấm Sét\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210486": {
+        "id": "210486",
+        "name": "\"Vạn Sắc Quy Không\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210487": {
+        "id": "210487",
+        "name": "\"Trở Về Tịch Diệt\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210488": {
+        "id": "210488",
+        "name": "\"Trạm Kế Tiếp\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210489": {
+        "id": "210489",
+        "name": "\"Sóng Điện Thư Giãn\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210490": {
+        "id": "210490",
+        "name": "\"Vũ Điệu Đầu Ngón Tay\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210491": {
+        "id": "210491",
+        "name": "\"Nhịp Điệu Ép Xung\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210493": {
+        "id": "210493",
+        "name": "\"Không Đếm Xỉa Tới\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210494": {
+        "id": "210494",
+        "name": "\"Yêu Đô Cuồng Yến\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210495": {
+        "id": "210495",
+        "name": "\"Hỏa Lực Toàn Diện\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210496": {
+        "id": "210496",
+        "name": "\"Hướng Dẫn Tân Thủ\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -26255,6 +26855,15 @@
         "icon": "icon/item/226004.png",
         "come_from": []
     },
+    "226005": {
+        "id": "226005",
+        "name": "Trọng Tài Dị Tướng - Xe",
+        "type": "Usable",
+        "sub_type": "HeadIconFrame",
+        "rarity": 5,
+        "icon": "icon/item/226003.png",
+        "come_from": []
+    },
     "227001": {
         "id": "227001",
         "name": "Vòng Nguyệt Quế Của Đấng Cứu Thế",
@@ -26364,6 +26973,15 @@
         "rarity": 5,
         "icon": "icon/item/227015.png",
         "come_from": []
+    },
+    "227016": {
+        "id": "227016",
+        "name": "Fan-Made Lygus",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227016.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
     },
     "229001": {
         "id": "229001",
@@ -28498,6 +29116,15 @@
         "icon": "icon/item/251004.png",
         "come_from": []
     },
+    "251005": {
+        "id": "251005",
+        "name": "Emoti Ngũ Vị",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251005.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
+    },
     "252000": {
         "id": "252000",
         "name": "Đồng Phục Lái Tàu Đỏ Đô Nghiêm Trang",
@@ -30207,6 +30834,15 @@
         "rarity": 5,
         "icon": "icon/item/253004.png",
         "come_from": ["Nhận tại Cửa Hàng \"Vật Phẩm Thời Trang\""]
+    },
+    "253005": {
+        "id": "253005",
+        "name": "Vút Bay",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253005.png",
+        "come_from": ["Nhận tại Cửa Hàng \"Món Quà Ánh Sao\""]
     },
     "254000": {
         "id": "254000",
@@ -32533,6 +33169,15 @@
         "icon": "icon/item/300057.png",
         "come_from": []
     },
+    "300058": {
+        "id": "300058",
+        "name": "Bức Thư Gửi Đến Những Vì Sao",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 4,
+        "icon": "icon/item/300058.png",
+        "come_from": []
+    },
     "300101": {
         "id": "300101",
         "name": "Chứng Nhận Tiếp Tế Đội Tàu",
@@ -32711,6 +33356,15 @@
         "sub_type": "ForceOpitonalGift",
         "rarity": 5,
         "icon": "icon/item/309001.png",
+        "come_from": []
+    },
+    "309012": {
+        "id": "309012",
+        "name": "Hộp Quà \"Quà Tặng Fate\"",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309012.png",
         "come_from": []
     },
     "310001": {

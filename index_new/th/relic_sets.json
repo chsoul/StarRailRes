@@ -796,5 +796,25 @@
             []
         ],
         "icon": "icon/relic/326.png"
+    },
+    "327": {
+        "id": "327",
+        "name": "",
+        "desc": [""],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ]
+        ],
+        "icon": "icon/relic/327.png"
+    },
+    "328": {
+        "id": "328",
+        "name": "",
+        "desc": [""],
+        "properties": [
+            []
+        ],
+        "icon": "icon/relic/328.png"
     }
 }

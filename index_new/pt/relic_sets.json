@@ -471,7 +471,7 @@
         "name": "Mestre Ferreiro da Consulta Divina",
         "desc": [
             "Aumenta os PV máximos em 12%.",
-            "Aumenta o Dano CRIT causado pelo usuário a inimigos-alvo no estado de redução de DEF em 28%. Depois que o usuário inflige o estado de redução de DEF a um inimigo-alvo, todos os aliados ganham \"Comburente\" por 2 rodada(s). Esse efeito não pode ser acumulado. O Dano causado por aliados-alvo com \"Comburente\" aumenta em 15%. Esse efeito pode ser ativado novamente depois que o usuário usa um ataque."
+            "Aumenta o Dano CRIT causado pelo usuário a inimigos-alvo no estado de redução de DEF em 28%. Depois que o usuário inflige o estado de redução de DEF a um inimigo-alvo, todos os aliados ganham \"Comburente\" por 2 rodada(s). Este efeito não pode ser acumulado. O Dano causado por aliados-alvo com \"Comburente\" aumenta em 15%. Este efeito pode ser ativado novamente depois que o usuário usa um ataque."
         ],
         "properties": [
             [
@@ -812,5 +812,29 @@
             []
         ],
         "icon": "icon/relic/326.png"
+    },
+    "327": {
+        "id": "327",
+        "name": "Ancoradouro da Estrela Caída",
+        "desc": [
+            "Aumenta a Chance de CRIT do usuário em 8%. Ao entrar em combate, se o usuário e outro companheiro de equipe forem ambos personagens \"Companheiros de Desbravamento\", aumenta o Dano CRIT do usuário em 32%."
+        ],
+        "properties": [
+            [
+                { "type": "CriticalChanceBase", "value": 0.08 }
+            ]
+        ],
+        "icon": "icon/relic/327.png"
+    },
+    "328": {
+        "id": "328",
+        "name": "Instituto de Ciências da Vida Cósmica",
+        "desc": [
+            "Ao entrar em combate, se a Energia Máxima do usuário for maior ou igual a 200, para cada 1 ponto excedente, aumenta o Dano causado pelo usuário em 0.2%, até um aumento máximo de 32%."
+        ],
+        "properties": [
+            []
+        ],
+        "icon": "icon/relic/328.png"
     }
 }

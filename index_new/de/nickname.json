@@ -82,6 +82,9 @@
         "1505": ["Evanescia"],
         "1506": ["Silberwolf St. 999"],
         "1507": ["Mortenax Blade"],
+        "1508": ["Rin Tohsaka"],
+        "1509": ["Gilgamesh"],
+        "1510": ["Himeko – Nova"],
         "8001": ["{NICKNAME}"],
         "8002": ["{NICKNAME}"],
         "8003": ["{NICKNAME}"],
@@ -249,6 +252,9 @@
         "23057": ["Willkommen in der kosmischen Stadt"],
         "23058": ["Begegnung in der nächsten Blütezeit"],
         "23059": ["Neue Überreste des versengenden Fegefeuers"],
+        "23060": ["Wenn ein Stern den Nachthimmel erhellt"],
+        "23061": ["Die leise flackernde Sternenflamme"],
+        "23062": ["Ich bin, wie du mich siehst"],
         "24000": ["Der Niedergang eines Äons"],
         "24001": ["Fahrt durch das Sternenmeer"],
         "24002": ["Textur der Erinnerungen"],
@@ -315,6 +321,8 @@
         "323": ["Amphoreus, Land der Ewigkeit"],
         "324": ["Tengoku@Livestream"],
         "325": ["Etappe Nr. Null von Punklorde"],
-        "326": ["Stadt der unzähligen Sterne"]
+        "326": ["Stadt der unzähligen Sterne"],
+        "327": ["Ankerplatz des gefallenen Sterns"],
+        "328": ["Institut für kosmische Biowissenschaften"]
     }
 }
