@@ -48453,7 +48453,7 @@
                 ]
             }
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1402302": {
         "id": "1402302",
@@ -52386,7 +52386,7 @@
                 ]
             }
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1407302": {
         "id": "1407302",
@@ -56466,7 +56466,7 @@
                 ]
             }
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill3.png"
     },
     "1413302": {
         "id": "1413302",
@@ -70839,7 +70839,7 @@
                 ]
             }
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "8007302": {
         "id": "8007302",
@@ -71761,7 +71761,7 @@
                 ]
             }
         ],
-        "icon": "icon/skill/8008_memosprite_skill.png"
+        "icon": "icon/skill/8008_memosprite_skill1.png"
     },
     "8008302": {
         "id": "8008302",

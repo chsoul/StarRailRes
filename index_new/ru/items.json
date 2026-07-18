@@ -30973,7 +30973,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260013.png",
+        "icon": "icon/item/260001.png",
         "come_from": []
     },
     "260002": {
@@ -30982,7 +30982,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260014.png",
+        "icon": "icon/item/260002.png",
         "come_from": []
     },
     "260003": {
@@ -30991,7 +30991,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260015.png",
+        "icon": "icon/item/260003.png",
         "come_from": []
     },
     "260004": {
@@ -31000,7 +31000,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260016.png",
+        "icon": "icon/item/260004.png",
         "come_from": []
     },
     "260005": {
@@ -31009,7 +31009,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260017.png",
+        "icon": "icon/item/260005.png",
         "come_from": []
     },
     "260006": {
@@ -31018,7 +31018,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260018.png",
+        "icon": "icon/item/260006.png",
         "come_from": []
     },
     "260007": {
@@ -31027,7 +31027,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260019.png",
+        "icon": "icon/item/260007.png",
         "come_from": []
     },
     "260008": {
@@ -31036,7 +31036,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260020.png",
+        "icon": "icon/item/260008.png",
         "come_from": []
     },
     "260009": {
@@ -31045,7 +31045,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260021.png",
+        "icon": "icon/item/260009.png",
         "come_from": []
     },
     "260010": {
@@ -31054,7 +31054,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260022.png",
+        "icon": "icon/item/260010.png",
         "come_from": []
     },
     "260011": {
@@ -31063,7 +31063,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260023.png",
+        "icon": "icon/item/260011.png",
         "come_from": []
     },
     "260012": {
@@ -31072,7 +31072,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260024.png",
+        "icon": "icon/item/260012.png",
         "come_from": []
     },
     "260013": {
