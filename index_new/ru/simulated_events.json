@@ -865,38 +865,38 @@
     },
     "263": {
         "id": "263",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны о несчастьях?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "264": {
         "id": "264",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны без видимой причины?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "265": {
         "id": "265",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны из-за времени?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "266": {
         "id": "266",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны от скуки?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "267": {
         "id": "267",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны от тоски по дому?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "268": {
         "id": "268",
-        "name": "",
-        "type": "",
+        "name": "Плачут ли Эоны из-за самих себя?",
+        "type": "Секреты",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "398": {
@@ -2977,74 +2977,74 @@
     },
     "700103": {
         "id": "700103",
-        "name": "",
-        "type": "",
+        "name": "Благоустройство города (зона)",
+        "type": "Ковка",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "700108": {
         "id": "700108",
-        "name": "",
-        "type": "",
+        "name": "Благоустройство города (Карты Тало)",
+        "type": "Ковка",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "727801": {
         "id": "727801",
-        "name": "",
-        "type": "",
+        "name": "Заклятый враг I",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727802": {
         "id": "727802",
-        "name": "",
-        "type": "",
+        "name": "Заклятый враг II",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727803": {
         "id": "727803",
-        "name": "",
-        "type": "",
+        "name": "Заклятый враг III",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727901": {
         "id": "727901",
-        "name": "",
-        "type": "",
+        "name": "Напитки таверны",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_44.png"
     },
     "728001": {
         "id": "728001",
-        "name": "",
-        "type": "",
+        "name": "Торговец в отпуске",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "728101": {
         "id": "728101",
-        "name": "",
-        "type": "",
+        "name": "Таинственная связь",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_45.png"
     },
     "728201": {
         "id": "728201",
-        "name": "",
-        "type": "",
+        "name": "Под фантаной (пепелище)",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728202": {
         "id": "728202",
-        "name": "",
-        "type": "",
+        "name": "Под фантаной (в картине)",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728203": {
         "id": "728203",
-        "name": "",
-        "type": "",
+        "name": "Под фантаной (современность)",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728301": {
         "id": "728301",
-        "name": "",
-        "type": "",
+        "name": "Свежий юмор",
+        "type": "Событие",
         "image": "image/simulated_event/PicRogueEvent_2.png"
     }
 }

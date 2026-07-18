@@ -3133,7 +3133,7 @@
     },
     "1504": {
         "id": "1504",
-        "name": "",
+        "name": "애쉬베일",
         "tag": "ashveil",
         "rarity": 5,
         "path": "Rogue",
@@ -3167,7 +3167,7 @@
     },
     "1505": {
         "id": "1505",
-        "name": "",
+        "name": "에바네시아",
         "tag": "evanescia",
         "rarity": 5,
         "path": "Elation",
@@ -3202,7 +3202,7 @@
     },
     "1506": {
         "id": "1506",
-        "name": "",
+        "name": "은랑 LV.999",
         "tag": "silverwolflv999",
         "rarity": 5,
         "path": "Elation",
@@ -3250,7 +3250,7 @@
     },
     "1507": {
         "id": "1507",
-        "name": "",
+        "name": "천야•블레이드",
         "tag": "mortenaxblade",
         "rarity": 5,
         "path": "Warlock",
@@ -3294,7 +3294,7 @@
     },
     "1508": {
         "id": "1508",
-        "name": "",
+        "name": "토오사카 린",
         "tag": "tohsakarin",
         "rarity": 5,
         "path": "Mage",
@@ -3328,7 +3328,7 @@
     },
     "1509": {
         "id": "1509",
-        "name": "",
+        "name": "길가메시",
         "tag": "gilgamesh",
         "rarity": 5,
         "path": "Warrior",
@@ -3362,7 +3362,7 @@
     },
     "1510": {
         "id": "1510",
-        "name": "",
+        "name": "히메코•노바",
         "tag": "himekonova",
         "rarity": 5,
         "path": "Mage",
@@ -3701,7 +3701,7 @@
     },
     "8009": {
         "id": "8009",
-        "name": "",
+        "name": "{NICKNAME}",
         "tag": "playerboy5",
         "rarity": 5,
         "path": "Elation",
@@ -3736,7 +3736,7 @@
     },
     "8010": {
         "id": "8010",
-        "name": "",
+        "name": "{NICKNAME}",
         "tag": "playergirl5",
         "rarity": 5,
         "path": "Elation",

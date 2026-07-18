@@ -865,38 +865,38 @@
     },
     "263": {
         "id": "263",
-        "name": "",
-        "type": "",
+        "name": "신은 불행 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "264": {
         "id": "264",
-        "name": "",
-        "type": "",
+        "name": "신은 무의미함 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "265": {
         "id": "265",
-        "name": "",
-        "type": "",
+        "name": "신은 시간 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "266": {
         "id": "266",
-        "name": "",
-        "type": "",
+        "name": "신은 지루함 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "267": {
         "id": "267",
-        "name": "",
-        "type": "",
+        "name": "신은 향수 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "268": {
         "id": "268",
-        "name": "",
-        "type": "",
+        "name": "신은 자아 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "398": {
@@ -2977,74 +2977,74 @@
     },
     "700103": {
         "id": "700103",
-        "name": "",
-        "type": "",
+        "name": "도시 미관 관리 (구역)",
+        "type": "주조",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "700108": {
         "id": "700108",
-        "name": "",
-        "type": "",
+        "name": "도시 미관 관리 (타워트 카드)",
+        "type": "주조",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "727801": {
         "id": "727801",
-        "name": "",
-        "type": "",
+        "name": "숙적 (1)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727802": {
         "id": "727802",
-        "name": "",
-        "type": "",
+        "name": "숙적 (2)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727803": {
         "id": "727803",
-        "name": "",
-        "type": "",
+        "name": "숙적 (3)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727901": {
         "id": "727901",
-        "name": "",
-        "type": "",
+        "name": "술집 음료",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_44.png"
     },
     "728001": {
         "id": "728001",
-        "name": "",
-        "type": "",
+        "name": "휴가철 상인",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "728101": {
         "id": "728101",
-        "name": "",
-        "type": "",
+        "name": "신비한 링크",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_45.png"
     },
     "728201": {
         "id": "728201",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (초토)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728202": {
         "id": "728202",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (그림 속)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728203": {
         "id": "728203",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (현대)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728301": {
         "id": "728301",
-        "name": "",
-        "type": "",
+        "name": "유머, 막 출고된",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_2.png"
     }
 }
